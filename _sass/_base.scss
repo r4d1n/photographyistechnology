@@ -90,16 +90,13 @@ h1, h2, h3, h4, h5, h6 {
 * Links
 */
 a {
-  color: $brand-color;
+  color: $secondary-color;
   text-decoration: none;
 
-  &:visited {
-    color: darken($brand-color, 15%);
-  }
-
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: darken($secondary-color, 15%);
+    // color: $text-color;
+    // text-decoration: underline;
   }
 }
 
@@ -211,4 +208,5 @@ pre {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
+  padding-left: 15px;
 }
