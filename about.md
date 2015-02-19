@@ -4,8 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+My name is Jared. I am an artist and web developer currently located in Oakland, CA.
+I have loved taking pictures since I was a kid and, at some point, started taking it
+sort of seriously. This blog is an ongoing project of mine where I try to hash out my own
+developing ideas about the nature of technologically dependent art in our futuristic society.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+You can also <a href="http://www.jaredradin.net">visit my other site</a> to see my portfolio.

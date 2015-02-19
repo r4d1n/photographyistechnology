@@ -1,0 +1,19 @@
+{
+  "name": "photographyistechnology",
+  "version": "0.0.0",
+  "homepage": "http://www.photographyistechnology.com",
+  "authors": [
+    "Jared Radin <jared.radin@gmail.com>"
+  ],
+  "description": "a blog about photography and technology",
+  "main": "index.html",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
