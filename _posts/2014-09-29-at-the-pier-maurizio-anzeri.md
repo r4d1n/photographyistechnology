@@ -15,7 +15,7 @@ tags:
   - Secondhand
   - vernacular
 ---
-<img class="aligncenter size-large wp-image-170" src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/anzeri_youngman-682x1024.jpg" alt="anzeri_youngman" width="640" height="960" />
+<img class="aligncenter size-large wp-image-170" src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/anzeri_youngman-682x1024.jpg" alt="anzeri_youngman" />
 
 Also up at Pier 24 as part of the Secondhand show, Maurizio Anzeri&#8217;s embroidered works remind me of pictures I&#8217;ve seen of relatives or recent ancestors who were photographed in studios generations ago. For the most part these are people who died before I was born, and they are impossibly distant from the family I know today. This is partly due to the earlier technology that was used to photograph them, whose images when seen today have a connotation of being from another era. Oftentimes it seems that those pictured relatives could be anyone, much like the subjects of the prints that the artist finds and incorporates into his practice. Here, with their faces embroidered over, they look as though they decided to don masks in the studio.
 

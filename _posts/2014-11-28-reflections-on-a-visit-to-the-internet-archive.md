@@ -23,7 +23,7 @@ tags:
   - surveillance
   - the web
 ---
-<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/11/rack-768x1024.jpg" alt="Internet Archive" width="640" height="853" class="aligncenter size-large wp-image-243" />
+<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/11/rack-768x1024.jpg" alt="Internet Archive" />
 
 Earlier this month (on November 8th) I went to Aaron Swartz Day at the Internet Archive, a San Francisco-based library-like institution dedicated to preserving and enabling access to cultural artifacts in the digital era, with particular focus paid to online and other “born digital” material that may not have ever existed in true physical form.
 

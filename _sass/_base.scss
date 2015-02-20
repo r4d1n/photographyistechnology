@@ -41,9 +41,9 @@ ul, ol, dl, figure,
 * Images
 */
 img {
-  width: auto;
+  height: auto;
   max-height: 700px;
-  // max-width: 100%;
+  max-width: 100%;
   vertical-align: middle;
 }
 
@@ -92,13 +92,13 @@ h1, h2, h3, h4, h5, h6 {
 * Links
 */
 a {
-  color: $secondary-color;
   text-decoration: none;
-
+  &,
+  &:visited {
+    color: $secondary-color;
+  }
   &:hover {
     color: darken($secondary-color, 15%);
-    // color: $text-color;
-    // text-decoration: underline;
   }
 }
 
