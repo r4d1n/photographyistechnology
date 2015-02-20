@@ -2,3 +2,4 @@ _site
 .sass-cache
 wp-content
 bower_components
+assets

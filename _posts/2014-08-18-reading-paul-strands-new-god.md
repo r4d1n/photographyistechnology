@@ -14,13 +14,12 @@ tags:
   - "What's the point?"
   - writing photographers
 ---
-In [an earlier post][1] I began to wonder about the relationship between art and the tech industry, and I am continuing to think about photography as a medium at the intersection of art, science, and economics.
+In <a href="/2014/06/29/industry-and-picture-making/">an earlier post</a> I began to wonder about the relationship between art and the tech industry, and I am continuing to think about photography as a medium at the intersection of art, science, and economics.
 
 Paul Strand, in a very interesting essay entitled “Photography and the New God,” draws a parallel between the historical roles of artists and scientists in Western civilization. He sees them as similar, as they are each involved in the pursuit of different kinds of knowledge: empirical or intellectual knowledge on the part of the scientist, and intuitive knowledge on the part of the artist.  
-<!--more-->
 
-  
 In poetic prose befitting his metaphorical descriptions of a transition from faith in God to faith in reason and money, Strand describes how, when the Christian Church dominated Western society and culture, empirical thinkers and experimenters suffered persecution because the scientific method was seen to be in opposition to Christian beliefs and values. Artists, on the other hand, played a vital role in reproducing said values and thus in the life of the Church (though there was certainly subversiveness even in religious art, i.e. in the work of painters like Caravaggio). But, eventually:
+<!--more-->
 
 > <span style="font-style: normal;">“Men&#8217;s imaginations, weary of sectarian intrigues and of Holy Wars, kindled at the thought of the unknown in the form of unexplored trade routes and new sources of material wealth; and through them dreamed of a power over their fellows as potent as any which could be derived from a vested interest in God. With this change in the direction of thought, the scientist became indispensable, he began to function in society […] Out of wood and metals he made hands that could do the work of a thousand men; he made backs that could carry the burden of a thousand beasts and chained the power which was in the earth and waters to make them work. Through him, men consummated a new creative act, a new Trinity: God the Machine, Materialistic Empiricism the Son, and Science the Holy Ghost.”<a href="#f1">[1]</a></span>
 

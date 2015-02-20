@@ -15,14 +15,14 @@ tags:
   - Secondhand
   - vernacular
 ---
-[<img class="aligncenter size-large wp-image-170" src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/anzeri_youngman-682x1024.jpg" alt="anzeri_youngman" width="640" height="960" />][1]
+<img class="aligncenter size-large wp-image-170" src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/anzeri_youngman-682x1024.jpg" alt="anzeri_youngman" width="640" height="960" />
 
 Also up at Pier 24 as part of the Secondhand show, Maurizio Anzeri&#8217;s embroidered works remind me of pictures I&#8217;ve seen of relatives or recent ancestors who were photographed in studios generations ago. For the most part these are people who died before I was born, and they are impossibly distant from the family I know today. This is partly due to the earlier technology that was used to photograph them, whose images when seen today have a connotation of being from another era. Oftentimes it seems that those pictured relatives could be anyone, much like the subjects of the prints that the artist finds and incorporates into his practice. Here, with their faces embroidered over, they look as though they decided to don masks in the studio.
 
 Photography is an important memory technology—my dad is all about getting as much snapshot coverage as possible at family events so that he will be able to remember everything later when he is an old man—and photographs have become important documents in our own personal records of ourselves. But Anzeri&#8217;s skillful art obscures our ability to recall what has been captured in these photographs. Instead, we see unsettling impressions of human faces, suggestions of individuals overlaid with beautiful, unexpected patterns.  
 <!--more-->
 
-  
+
 [<img class="aligncenter size-large wp-image-169" src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/anzeri_woman-682x1024.jpg" alt="anzeri_woman" width="640" height="960" />][2]
 
 After looking at these pictures for a little while in the gallery I thought of a passage I quite like from *The Crossing*, a novel by Cormac McCarthy, one of my favorite authors:

@@ -15,7 +15,8 @@ tags:
   - photobooks
   - writing photographers
 ---
-![Sweet Earth][1]
+![Sternfeld Sweet Earth](/assets/sternfeld-sweet-earth.jpg)
+<!-- <img src="/assets/sternfeld-sweet-earth.jpg" alt="Joel Sternfeld Sweet Earth" width="600" height="465" class="size-full wp-image-210" /> -->
 
 I recently went to see Joel Sternfeld speak at California College of the Arts as part of the regular lecture series on photography that is put on there in memory of Larry Sultan.
 

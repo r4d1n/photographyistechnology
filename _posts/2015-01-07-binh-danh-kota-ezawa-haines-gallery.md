@@ -18,7 +18,7 @@ tags:
   - Kota Ezawa
   - san francisco
 ---
-[<img class="aligncenter size-large wp-image-260" src="http://www.photographyistechnology.com/wp-content/uploads/2015/01/IMG_0423-1024x721.jpg" alt="IMG_0423" width="640" height="451" />][1]
+<img class="aligncenter size-large wp-image-260" src="http://www.photographyistechnology.com/wp-content/uploads/2015/01/IMG_0423-1024x721.jpg" alt="IMG_0423" width="640" height="451" />
 
 I saw a very cool gallery show last month in San Francisco that, though it has since closed, I still feel is worth briefly writing about. The paired hanging at Haines Gallery of work by Binh Danh and Kota Ezawa presented viewers with two different but equally cutting edge photographic practices. I really enjoyed looking at these pictures and seeing them in the gallery together left me inspired, thinking about what fertile soil the history of photography has made for artists today to take root in.
 
