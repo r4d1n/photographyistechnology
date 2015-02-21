@@ -19,8 +19,8 @@ tags:
 ---
 <a href="http://www.paglen.com"><img src="http://paglen.com/img/92web.jpg" alt=""  /></a>
 
-<p>
-STSS-1 and Two Unidentified Spacecraft over Carson City (Space Tracking and Surveillance System; USA 205), 2010. From The Other Night Sky, via the artist&#8217;s website: www.paglen.com
+<p class="caption">
+STSS-1 and Two Unidentified Spacecraft over Carson City (Space Tracking and Surveillance System; USA 205), 2010. From The Other Night Sky, via <a href="www.paglen.com">the artist&#8217;s website</a>
 </p>
 
 

@@ -31,8 +31,6 @@ In the course of this change, the value of intuitive knowledge dwindled, so that
   <span style="font-style: normal;"> Strand goes on to somewhat bitterly expound upon the ways in which scientists have allowed themselves to be used, for the purpose of profit, to create all kinds of horrible weapons and unsustainable ways of life that have resulted in Western Civilization reaching a point verging on crisis. He sees hope, however, in the figure of the photographer, who uses machines for expressive purposes and thus injects some feeling and a humanist sensibility into the “New God&#8217;s” brutally rational world. </span>
 </p>
 
-</ br>
-
 <p style="margin-bottom: 0in; line-height: 150%;">
   <span style="font-style: normal;">Much of the essay is written polemically and demonstrates a thorough skepticism of the rapid embrace of new technologies, which I do not think is an unhealthy trait in artists, who must have a deep understanding of the tools that they use. However, the final paragraph does point toward photographers as possible prophets of a brighter, if not truly optimistic, way forward, and asks questions that I think are fundamental to what I myself am hoping to better understand through writing here:</span>
 </p>

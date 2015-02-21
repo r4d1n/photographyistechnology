@@ -21,12 +21,12 @@ tags:
 <div id="attachment_210">
   <a href="http://www.tarynsimon.com"><img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" width="600" height="465" class="size-full wp-image-210" /></a>
 
-  <p class="wp-caption-text">
-    Taryn Simon <br />&#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building<br />Langley, Virginia&#8221;<br />
+  <p class="caption">
+    Taryn Simon <br />&#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building<br />Langley, Virginia&#8221;
   </p>
 </div>
 
-[Last post][1] I wrote about the Joel Sternfeld lecture at CCA, where he spoke enthusiastically about the possibilities of photographic practices that include text. I discussed his books *Sweet Earth* and *On This Site*, and then Jim Goldberg&#8217;s seminal *Raised By Wolves*.
+<a href="{{page.previous.url}}">Last post</a> I wrote about the Joel Sternfeld lecture at CCA, where he spoke enthusiastically about the possibilities of photographic practices that include text. I discussed his books <em>Sweet Earth</em> and <em>On This Site</em>, and then Jim Goldberg&#8217;s seminal <em>Raised By Wolves</em>.
 
 Taryn Simon was another artist that Sternfeld mentioned as an example of someone who makes innovative work that incorporates text with photographs. Her output can also be considered a kind of “documentary” along with the previously discussed projects by Sternfeld and Jim Goldberg. All three artists do research and then go out into the world to gather material in the form of images and whatever information is required to produce their accompanying texts.  
 <!--more-->
