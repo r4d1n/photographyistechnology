@@ -6,7 +6,7 @@
       <div class="footer-col  footer-col-1">
         <ul class="contact-list">
           <li>
-            <a class="page-link" href="{{ /about | prepend: site.baseurl }}">About</a>
+            <a class="page-link" href="/about">About</a>
           </li>
         </ul>
       </div>
@@ -19,21 +19,11 @@
         <ul class="social-media-list">
           {% if site.email %}
           <li>
-            <a href="mailto:{{ site.email }}">
+            <a href="mailto:&#112;&#104;&#111;&#116;&#111;&#103;&#114;&#097;&#112;&#104;&#121;&#105;&#115;&#116;&#101;&#099;&#104;&#110;&#111;&#108;&#111;&#103;&#121;&#064;&#103;&#109;&#097;&#105;&#108;&#046;&#099;&#111;&#109;">
             <span class="social fa fa-envelope"></span>
             </a>
           </li>
           {% endif %}
-
-          {% if site.github_username %}
-          <li>
-            <a href="https://github.com/{{ site.github_username }}">
-              <span class="social fa fa-github"></span>
-              <!-- <span class="username">{{ site.github_username }}</span> -->
-            </a>
-          </li>
-          {% endif %}
-
           {% if site.twitter_username %}
           <li>
             <a href="https://twitter.com/{{ site.twitter_username }}">
@@ -47,6 +37,14 @@
             <a href="https://instagram.com/{{ site.instagram_username }}">
               <span class="social fa fa-instagram"></span>
               <!-- <span class="username">{{ site.instagram_username }}</span> -->
+            </a>
+          </li>
+          {% endif %}
+          {% if site.github_username %}
+          <li>
+            <a href="https://github.com/{{ site.github_username }}">
+              <span class="social fa fa-github"></span>
+              <!-- <span class="username">{{ site.github_username }}</span> -->
             </a>
           </li>
           {% endif %}

@@ -9,7 +9,7 @@ twitter_username: r4d1n
 github_username:  r4d1n
 instagram_username: r4d1n
 
-paginate: 4
+paginate: 3
 paginate_path: "/:num/"
 excerpt_separator: <!--more-->
 
