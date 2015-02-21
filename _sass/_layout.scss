@@ -95,19 +95,6 @@
 * Site footer
 */
 
-footer {
-  a, a:visited {
-    color: $brand-color;
-
-    &:hover {
-      color: darken($brand-color, 10%);
-    }
-  }
-  ul {
-    margin-left: 5px;
-  }
-}
-
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
@@ -213,8 +200,23 @@ footer {
   font-size: 24px;
 }
 
+.pagination, .caption {
+  color: $grey-color;
+  text-align: center;
+}
 
+.previous {
+  padding-right: 5px;
+}
 
+.next {
+  padding-left: 5px;
+}
+
+.read-more {
+  font-size: $small-font-size;
+  padding-top: 5px;
+}
 /**
 * Posts
 */
