@@ -100,6 +100,9 @@ a {
   &:hover {
     color: darken($secondary-color, 15%);
   }
+  &:active:not(.site-title) {
+    text-decoration: underline;
+  }
 }
 
 
