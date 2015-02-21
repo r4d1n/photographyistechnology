@@ -18,7 +18,7 @@ tags:
   - secrecy
   - Taryn Simon
 ---
-<div id="attachment_210">
+<div>
   <a href="http://www.tarynsimon.com"><img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" width="600" height="465" class="size-full wp-image-210" /></a>
 
   <p class="caption">

@@ -42,13 +42,21 @@ ul, ol, dl, figure,
 /**
 * Images
 */
+
+/* context for image wrapper */
+.post-content, .excerpt {
+  position: relative;
+}
+
 img {
   height: auto;
   max-height: 700px;
   max-width: 100%;
   vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
-
 
 
 /**
