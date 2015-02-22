@@ -88,7 +88,7 @@
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
-@include media-query($on-laptop) {
+@include media-query($on-tablet) {
   .footer-col-1,
   .footer-col-2 {
     width: -webkit-calc(50% - (#{$spacing-unit} / 2));
@@ -164,6 +164,16 @@
 * Posts
 */
 
+.post-header {
+  position: relative;
+  @include media-query($on-palm) {
+    margin-bottom: $spacing-unit * 2;
+  }
+  @include media-query($on-tablet) {
+    margin-bottom: $spacing-unit * 2 + 10;
+  }
+}
+
 .post-link, .post-title {
   text-align: left;
   display: block;
@@ -184,7 +194,7 @@
   h2 {
     font-size: 32px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
       font-size: 28px;
     }
   }
@@ -192,7 +202,7 @@
   h3 {
     font-size: 26px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
       font-size: 22px;
     }
   }
@@ -200,7 +210,7 @@
   h4 {
     font-size: 20px;
 
-    @include media-query($on-laptop) {
+    @include media-query($on-tablet) {
       font-size: 18px;
     }
   }
@@ -214,4 +224,37 @@
 .page-link {
   display: block;
   line-height: $base-line-height;
+}
+
+/* Sharing divs */
+.sidebar {
+  position: fixed;
+  top: 150px;
+  right: 45px;
+
+  @include media-query($on-tablet) {
+    display: none;
+  }
+}
+
+.mobile-sharing {
+  display: none;
+  position: absolute;
+  top: $spacing-unit;
+  left: 5px;
+  ul {
+    margin: 0px;
+    li {
+      float: left;
+      padding-right: 5px;
+    }
+  }
+  @include media-query($on-tablet) {
+    padding-left: 5px;
+    display: block;
+    margin-top: $spacing-unit;
+  }
+  @include media-query($on-palm) {
+    margin-top: 0px;
+  }
 }

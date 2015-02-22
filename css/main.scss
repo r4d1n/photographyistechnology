@@ -9,8 +9,8 @@
 $base-font-family: "proxima-nova", sans-serif;
 $base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.8;
-$big-font-size: $base-font-size * 2.75;
 $med-font-size: $base-font-size * 2.0;
+$big-font-size: $base-font-size * 2.75;
 $base-line-height: 1.5;
 
 $header-font-family: "futura-pt", sans-serif;
@@ -30,7 +30,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 $content-width:    1000px;
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-tablet:        1200px;
 
 
 
@@ -41,8 +41,8 @@ $on-laptop:        800px;
 //         padding-left: $spacing-unit / 2;
 //     }
 // }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
+@mixin media-query($max) {
+    @media screen and (max-width: $max) {
         @content;
     }
 }
