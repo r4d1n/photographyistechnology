@@ -22,7 +22,7 @@
   font-weight: 700;
 
   @include media-query($on-palm) {
-    font-size: $big-font-size * .7;
+    font-size: $big-font-size * .5;
     padding: $spacing-unit * .5;
     line-height: 40px;
   }
@@ -44,7 +44,7 @@
 }
 
 .contact-list {
-  font-size: $small-font-size;
+  font-size: $base-font-size;
   float: left;
 }
 .social-media-list {
@@ -136,21 +136,30 @@
 
 .pagination {
   color: $grey-color;
+  padding-bottom: 10px$;
   text-align: center;
-}
+  margin: 0 auto;
+  height: 20px;
+  font-size: $base-font-size;
+  @extend .accent-link;
 
-.previous {
-  padding-right: 5px;
-}
+  span {
+    line-height: 20px;
+  }
 
-.next {
-  padding-left: 5px;
+  .previous {
+    padding-right: $spacing-unit / 3;
+  }
+
+  .next {
+    padding-left: $spacing-unit / 3;
+  }
 }
 
 .read-more {
   font-size: $small-font-size;
-  padding-top: 5px;
 }
+
 /**
 * Posts
 */
@@ -159,7 +168,7 @@
 // }
 
 .post-link, .post-title {
-  text-align: center;
+  text-align: left;
   display: block;
   font-size: $med-font-size;
   color: $secondary-color;
@@ -203,4 +212,9 @@
 .post-list li {
   padding-bottom: 20px;
   border-bottom: 1px solid $grey-color-dark;
+}
+
+.page-link {
+  display: block;
+  line-height: $base-line-height;
 }
