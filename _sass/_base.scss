@@ -48,21 +48,17 @@ ul, ol, dl, figure,
   position: relative;
 }
 
-img {
-  height: auto;
-  max-height: 700px;
-  max-width: 100%;
-  vertical-align: middle;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
-}
 
 
 /**
 * Figures
 */
 figure > img {
+  height: auto;
+  max-height: 700px;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
   display: block;
   padding-bottom: $spacing-unit / 2;
 }
@@ -70,7 +66,7 @@ figure > img {
 figcaption {
   color: $grey-color;
   text-align: center;
-  font-size: $small-font-size + 2;
+  font-size: $small-font-size;
 }
 
 

@@ -21,7 +21,7 @@ tags:
 <figure><img src="/assets/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" />
 
   <figcaption>
-&#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building<br />Langley, Virginia&#8221; <br />
+&#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building, Langley, Virginia&#8221; <br />
 <em>From An American Index of the Hidden and Unfamiliar</em> by Taryn Simon <br />
 Via <a href="http://www.tarynsimon.com">the artist's website</a>
   </figcaption>
