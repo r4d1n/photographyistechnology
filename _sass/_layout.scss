@@ -7,7 +7,6 @@
   min-height: 56px;
   // Positioning context for the mobile navigation icon
   position: relative;
-  max-width: 100%;
 }
 
 .site-title {
@@ -21,6 +20,12 @@
   display: block;
   text-transform: uppercase;
   font-weight: 700;
+
+  @include media-query($on-palm) {
+    font-size: $big-font-size * .7;
+    padding: $spacing-unit * .5;
+    line-height: 40px;
+  }
 
   &,
   &:visited {
@@ -112,7 +117,7 @@
 }
 
 .page-heading {
-  font-size: 20px;
+  font-size: $med-font-size;
 }
 
 .post-list {
@@ -159,16 +164,11 @@
   font-size: $med-font-size;
   color: $secondary-color;
   margin-bottom: $spacing-unit;
-// }
-//
-//
-// .post-title {
-  // font-size: 42px;
   letter-spacing: -1px;
   line-height: 1;
 
-  @include media-query($on-laptop) {
-    font-size: 36px;
+  @include media-query($on-palm) {
+    font-size: $med-font-size * .7;
   }
 }
 
