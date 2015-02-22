@@ -16,9 +16,12 @@ tags:
   - Politics
   - Terrorism
 ---
-<img class="media-viewer-candidate" src="http://static01.nyt.com/images/2014/06/16/world/JP-IRAQ/JP-IRAQ-articleLarge.jpg" alt="" />
-
-Militant-published image credited to the Associated Press in <a href="http://nyti.ms/UDstgZ">recent New York Times coverage of ISIS in Iraq.</a>
+<figure>
+<img src="http://static01.nyt.com/images/2014/06/16/world/JP-IRAQ/JP-IRAQ-articleLarge.jpg" alt="" />
+<figcaption>
+Militant-published image credited to the AP in <a href="http://nyti.ms/UDstgZ">recent New York Times coverage of ISIS in Iraq.</a>
+</figcaption>
+</figure>
 
 Terrorism, as its name suggests, is about instilling fear. Terrorists strive for high body counts because they are interested in killing their targets, but also because brutal public bloodshed makes people more fearful of the presented threat. &#8220;Public&#8221; is a key word here. Terrorism that doesn&#8217;t announce itself is just murder, and while murder may check that first box of eliminating targets, it does not utilize those killings toward the broader goals of scaring people while recruiting fighters/inspiring lone wolves.
 

@@ -15,9 +15,12 @@ tags:
   - photobooks
   - writing photographers
 ---
-![Sternfeld Sweet Earth](/assets/sternfeld-sweet-earth.jpg)
-<!-- <img src="/assets/sternfeld-sweet-earth.jpg" alt="Joel Sternfeld Sweet Earth" width="600" height="465" class="size-full wp-image-210" /> -->
-
+<figure>
+<img src="/assets/sternfeld-sweet-earth.jpg" alt="Joel Sternfeld Sweet Earth" />
+<figcaption>
+From <em>Sweet Earth</em> by Joel Sternfeld
+</figcaption>
+</figure>
 I recently went to see Joel Sternfeld speak at California College of the Arts as part of the regular lecture series on photography that is put on there in memory of Larry Sultan.
 
 Prior to this lecture, the only book of Sternfeld&#8217;s that I had spent significant time with was *American Prospects*, and that series&#8217; distinction as a “seminal color work” (he made a joke at one point about the notion of himself and Eggleston as pioneers, circling their wagons on the frontier) kind of overshadowed my ability to clearly look at those pictures in any other light, aside from acknowledging the most obvious ironies and oddities depicted, so I appreciated hearing some of the artist&#8217;s insights into his own work, as well as the context in which that book and others were made.  
@@ -41,19 +44,18 @@ I did not leave the lecture wholly convinced that the use of text in this way re
 
 Two different kinds of texts are found in *Raised By Wolves*, Jim Goldberg&#8217;s book about runaways in San Francisco and Los Angeles. There are handwritten notes by the subjects of the photographs, and there are typed pages that include paragraphs from the artist&#8217;s point of view along with interviews with the young people who are his subjects and with counselors, police, and others who are familiar with the main characters. Some pages have only words and no pictures.
 
-[<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_112003_139-1024x768.jpg" alt="IMG_20141001_112003_139" width="640" height="480" class="aligncenter size-large wp-image-190" />][3]
+<figure>
+<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_112003_139-1024x768.jpg" alt="From Raised By Wolves by Jim Goldberg" />
+</figure>
 
 This is very much a documentary project, and so the use of text is consistent with the tradition of magazine stories, books, and films that include interviews, captions, voice overs, and so on, explaining the images or fleshing out the story behind them. Looking through *Raised By Wolves*, I find that I am drawn first to the text and then look at the pictures, so that the photographs, striking as they are, tend to feel almost like illustrations to accompany what is written in the book. Through the text I get to know the street kids that Goldberg befriends, like Echo and Tweeker Dave, and then the images confirm either my emotional sense of them or certain facts (for example, Dave has a large scar on his stomach where he claims to have been shot by his father). The pictures, as well as the handwritten notes that sometimes accompany them, feel like proof, or evidence gathered in the field that is meant to give the audience a closer, more authentic experience of what is described in the typed text throughout the book.
 
-[<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_111759_660-1024x768.jpg" alt="IMG_20141001_111759_660" width="640" height="480" class="aligncenter size-large wp-image-189" />][4]
+<figure>
+<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_111759_660-1024x768.jpg" alt="From Raised By Wolves by Jim Goldberg" />
+</figure>
 
 The text in *Sweet Earth*, on the other hand, gives direct background information about the photographs in the book. Each spread has a picture with text on the opposite page that tells us where the picture was taken and explains the concept of this retreat/community/institution. As he made a point of noting in his lecture, these are not objective documents that merely detail the history of each utopian experiment. They are very much written from the artist&#8217;s point of view, with a little bit of his sense of humor as well as a certain reverence for the projects described. Overall, Sternfeld seems to see his subjects as noble models for a more natural, peaceful, and spiritually fulfilling society, and he hopes to convince us of this nobility or at least acknowledge and preserve it by way of his pictures and writing. This is unlike* Raised By Wolves,* wherein Goldberg seems most focused on gathering material and understanding his subjects, not necessarily setting out his own perspective. Once again, however, there is a temptation on the part of the viewer to read first and then look, now that we know what we are being shown and why. To me, this takes some of the fun out of looking at photographs, since the most interesting or captivating aspect of a picture often stem from elements in the frame that are not readily understood. However, the text in these works is effectively employed as a kind of expository device that provides viewers with information that becomes a part of their experience of the entire work, and which is produced with as much purpose and formal awareness as the photographs themselves.
 
 Next post I will write about two more projects in which words play a significant role among images.
 
 <a name="f1"></a>*<a href="http://www.angelastrassheim.com/" target="_blank">Angela Strassheim</a> has a body of work in which she used a forensic chemical to show blood residue in domestic spaces where violent crimes took place. There the ambiguity enhances the photographs, but those are of anonymous homes rather than the historically specific locations that Sternfeld chose for his series, and traces of violence are immediately present in the frame.
-
- [1]: http://prod-images.exhibit-e.com/www_luhringaugustine_com/f888a181.jpg
- [2]: #f1
- [3]: http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_112003_139.jpg
- [4]: http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_111759_660.jpg

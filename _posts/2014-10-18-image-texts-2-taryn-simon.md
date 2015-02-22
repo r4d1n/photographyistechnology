@@ -1,5 +1,5 @@
 ---
-title: 'Image-Texts: Taryn Simon'
+title: 'Image-Texts 2: Taryn Simon'
 author: photographyistechnology
 layout: post
 permalink: /2014/10/18/image-texts-2-taryn-simon/
@@ -18,13 +18,14 @@ tags:
   - secrecy
   - Taryn Simon
 ---
-<div>
-  <a href="http://www.tarynsimon.com"><img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" width="600" height="465" class="size-full wp-image-210" /></a>
+<figure><img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" />
 
-  <p class="caption">
-    Taryn Simon <br />&#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building<br />Langley, Virginia&#8221;
-  </p>
-</div>
+  <figcaption>
+&#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building<br />Langley, Virginia&#8221; <br />
+<em>From An American Index of the Hidden and Unfamiliar</em> by Taryn Simon <br />
+Via <a href="http://www.tarynsimon.com">the artist's website</a>
+  </figcaption>
+</figure>
 
 <a href="{{page.previous.url}}">Last post</a> I wrote about the Joel Sternfeld lecture at CCA, where he spoke enthusiastically about the possibilities of photographic practices that include text. I discussed his books <em>Sweet Earth</em> and <em>On This Site</em>, and then Jim Goldberg&#8217;s seminal <em>Raised By Wolves</em>.
 
@@ -50,13 +51,14 @@ Simon&#8217;s deft paragraphs provide enough information for us to understand wh
 The next picture represents a more personal kind of secret than the lobby of a spy agency.  
 
 
-<div id="attachment_211" style="width: 610px" class="wp-caption aligncenter">
-  <a href="http://www.tarynsimon.com"><img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_Surgery.jpg" alt="Hymenoplasty Cosmetic Surgery, P.A. Fort Lauderdale, Florida" width="600" height="465" class="size-full wp-image-211" /></a>
+<figure>
+<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_Surgery.jpg" alt="Taren Simon: Hymenoplasty Cosmetic Surgery, P.A. Fort Lauderdale, Florida" />
 
-  <p class="wp-caption-text">
+  <figcaption>
     Taryn Simon <br />&#8220;Hymenoplasty<br />Cosmetic Surgery, P.A.<br />Fort Lauderdale, Florida&#8221;<br />
-  </p>
-</div>
+    Via <a href="http://www.tarynsimon.com">the artist's website</a>
+  </figcaption>
+</figure>
 
 The text explains:
 
@@ -73,5 +75,3 @@ The picture depicts a scene that most viewers would normally not have access to,
 Simon does not write about her own opinion of the pressures this woman faces or the fact that a male doctor makes a good deal of money “fixing” women&#8217;s private parts. This is not documentary in the socially engaged vein of Jacob Riis, Michael Moore, or your favorite non-profit, driven to highlight an issue so that the audience will be moved to outrage or action over it. Rather, it is literally about the production of documents where there otherwise might not be any, or where any that do exist are not widely accessible.
 
 Considering the work and the artist&#8217;s process in this light speaks to a fundamental facet of photography itself, as an archival process. Were there just a lens and ground glass or a viewfinder, but no mechanism through which to capture and store images, the camera would have remained a neat optical device for the scientifically inclined to take a novel gander at their surroundings. It was only with the advent of film/digital technologies and their primitive chemical precursors on tin and glass that photography became the remarkable medium that it is today.
-
- [1]: http://www.photographyistechnology.com/2014/10/08/text-and-images-after-sternfeld-cca/ "Text-Image Projects (After Sternfeld @ CCA)"

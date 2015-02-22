@@ -64,10 +64,13 @@ img {
 */
 figure > img {
   display: block;
+  padding-bottom: $spacing-unit / 2; 
 }
 
 figcaption {
-  font-size: $small-font-size;
+  color: $grey-color;
+  text-align: center;
+  font-size: $small-font-size + 2;
 }
 
 
