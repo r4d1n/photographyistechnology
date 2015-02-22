@@ -18,7 +18,7 @@ tags:
   - secrecy
   - Taryn Simon
 ---
-<figure><img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" />
+<figure><img src="/assets/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" />
 
   <figcaption>
 &#8220;The Central Intelligence Agency, Art<br />CIA Original Headquarters Building<br />Langley, Virginia&#8221; <br />
@@ -52,7 +52,7 @@ The next picture represents a more personal kind of secret than the lobby of a s
 
 
 <figure>
-<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/10/Simon_Surgery.jpg" alt="Taren Simon: Hymenoplasty Cosmetic Surgery, P.A. Fort Lauderdale, Florida" />
+<img src="/assets/2014/10/Simon_Surgery.jpg" alt="Taren Simon: Hymenoplasty Cosmetic Surgery, P.A. Fort Lauderdale, Florida" />
 
   <figcaption>
     Taryn Simon <br />&#8220;Hymenoplasty<br />Cosmetic Surgery, P.A.<br />Fort Lauderdale, Florida&#8221;<br />

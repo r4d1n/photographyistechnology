@@ -24,7 +24,7 @@ tags:
   - the web
 ---
 <figure>
-<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/11/rack-768x1024.jpg" alt="Internet Archive" />
+<img src="/assets/2014/11/rack-768x1024.jpg" alt="Internet Archive" />
 <figcaption>
 Servers at the Internet Archive
 </figcaption>

@@ -16,7 +16,7 @@ tags:
   - writing photographers
 ---
 <figure>
-<img src="/assets/sternfeld-sweet-earth.jpg" alt="Joel Sternfeld Sweet Earth" />
+<img src="/assets/2014/sternfeld-sweet-earth.jpg" alt="Joel Sternfeld Sweet Earth" />
 <figcaption>
 From <em>Sweet Earth</em> by Joel Sternfeld
 </figcaption>
@@ -45,13 +45,13 @@ I did not leave the lecture wholly convinced that the use of text in this way re
 Two different kinds of texts are found in *Raised By Wolves*, Jim Goldberg&#8217;s book about runaways in San Francisco and Los Angeles. There are handwritten notes by the subjects of the photographs, and there are typed pages that include paragraphs from the artist&#8217;s point of view along with interviews with the young people who are his subjects and with counselors, police, and others who are familiar with the main characters. Some pages have only words and no pictures.
 
 <figure>
-<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_112003_139-1024x768.jpg" alt="From Raised By Wolves by Jim Goldberg" />
+<img src="/assets/2014/09/IMG_20141001_112003_139-1024x768.jpg" alt="From Raised By Wolves by Jim Goldberg" />
 </figure>
 
 This is very much a documentary project, and so the use of text is consistent with the tradition of magazine stories, books, and films that include interviews, captions, voice overs, and so on, explaining the images or fleshing out the story behind them. Looking through *Raised By Wolves*, I find that I am drawn first to the text and then look at the pictures, so that the photographs, striking as they are, tend to feel almost like illustrations to accompany what is written in the book. Through the text I get to know the street kids that Goldberg befriends, like Echo and Tweeker Dave, and then the images confirm either my emotional sense of them or certain facts (for example, Dave has a large scar on his stomach where he claims to have been shot by his father). The pictures, as well as the handwritten notes that sometimes accompany them, feel like proof, or evidence gathered in the field that is meant to give the audience a closer, more authentic experience of what is described in the typed text throughout the book.
 
 <figure>
-<img src="http://www.photographyistechnology.com/wp-content/uploads/2014/09/IMG_20141001_111759_660-1024x768.jpg" alt="From Raised By Wolves by Jim Goldberg" />
+<img src="/assets/2014/09/IMG_20141001_111759_660-1024x768.jpg" alt="From Raised By Wolves by Jim Goldberg" />
 </figure>
 
 The text in *Sweet Earth*, on the other hand, gives direct background information about the photographs in the book. Each spread has a picture with text on the opposite page that tells us where the picture was taken and explains the concept of this retreat/community/institution. As he made a point of noting in his lecture, these are not objective documents that merely detail the history of each utopian experiment. They are very much written from the artist&#8217;s point of view, with a little bit of his sense of humor as well as a certain reverence for the projects described. Overall, Sternfeld seems to see his subjects as noble models for a more natural, peaceful, and spiritually fulfilling society, and he hopes to convince us of this nobility or at least acknowledge and preserve it by way of his pictures and writing. This is unlike* Raised By Wolves,* wherein Goldberg seems most focused on gathering material and understanding his subjects, not necessarily setting out his own perspective. Once again, however, there is a temptation on the part of the viewer to read first and then look, now that we know what we are being shown and why. To me, this takes some of the fun out of looking at photographs, since the most interesting or captivating aspect of a picture often stem from elements in the frame that are not readily understood. However, the text in these works is effectively employed as a kind of expository device that provides viewers with information that becomes a part of their experience of the entire work, and which is produced with as much purpose and formal awareness as the photographs themselves.
