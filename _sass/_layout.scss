@@ -255,6 +255,6 @@
     margin-top: $spacing-unit;
   }
   @include media-query($on-palm) {
-    margin-top: 0px;
+    margin-top: $spacing-unit * 2;
   }
 }
