@@ -242,4 +242,16 @@ pre {
       font-size: $small-font-size;
     }
   }
+    .fb-like {
+      &,
+      &:visited {
+        color: #3b5999;
+      }
+    }
+    .twitter-share {
+      &,
+      &:visited {
+        color: #55ACEE;
+      }
+    }
 }

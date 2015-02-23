@@ -5,14 +5,56 @@ layout: default
 
   <header class="post-header">
     <h1 class="post-title">{{ page.title }}</h1>
-  </header>
+    <div class="mobile-sharing">
+      <ul class="social-sharing">
+        <!-- <li><span class="post-meta">Share Post:</span></li> -->
+        <li><span class="fa fa-envelope fa-lg"></span></li>
+        <li>
+          <a class="fb-like" href="https://www.facebook.com/sharer/sharer.php?
+          t={{ page.title }}
+          &u={{ url }}" target="_blank" title="Share on Facebook">
+          <span class="fa fa-facebook fa-lg"></span>
+        </a>
+      </li>
+      <li>
+        <a class="twitter-share" target="_blank" href="https://twitter.com/share?text={{ page.title }}%20via%20@{{ site.twitter_username }}&url={{ site.url }}{{ page.url }}">
+          <span class="fa fa-twitter fa-lg"></span>
+        </a>
+      </li>
+      <!-- <li><span class="fa fa-tumblr fa-lg"></span></li> -->
+    </ul>
+  </div>
+</header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-  <p class="post-meta">
-    Posted: {{ page.date | date: "%b %-d, %Y" }}
-    {% if page.meta %} • {{ page.meta }}{% endif %}
-  </p>
+<article class="post-content">
+  {{ content }}
+</article>
+<p class="post-meta">Posted: {{ page.date | date: "%b %-d, %Y" }}
+  {% if page.meta %} • {{ page.meta }}{% endif %}</p>
 
+</div>
+
+<div class="sidebar">
+  <ul class="social-sharing">
+    <!-- <li><h3>Share:</h3></li> -->
+    <li>
+      <span class="fa fa-envelope fa-lg"></span>
+    </li>
+    <li>
+      <a href="https://www.facebook.com/sharer/sharer.php?
+      t={{ page.title }}
+      &u={{ url }}" target="_blank" title="Share on Facebook">
+      <span class="fa fa-facebook fa-lg fb-like"></span>
+    </a>
+  </li>
+  <li>
+    <a target="_blank" href="https://twitter.com/share?
+    url={{ page.shorturl }}&via=r4d1n">
+    <span class="fa fa-twitter fa-lg twitter-share"></span>
+  </a>
+</li>
+<!-- <li>
+<span class="fa fa-tumblr fa-lg"></span>
+</li> -->
+</ul>
 </div>

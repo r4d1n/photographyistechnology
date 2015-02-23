@@ -166,12 +166,12 @@
 
 .post-header {
   position: relative;
-  // @include media-query($on-palm) {
-  //   margin-bottom: $spacing-unit * 2;
-  // }
-  // @include media-query($on-tablet) {
-  //   margin-bottom: $spacing-unit * 2 + 10;
-  // }
+  @include media-query($on-palm) {
+    margin-bottom: $spacing-unit * 2;
+  }
+  @include media-query($on-tablet) {
+    margin-bottom: $spacing-unit * 2 + 10;
+  }
 }
 
 .post-link, .post-title {
@@ -184,7 +184,7 @@
   line-height: 1;
 
   @include media-query($on-palm) {
-    font-size: $med-font-size * .5;
+    font-size: $med-font-size * .8;
   }
 }
 
