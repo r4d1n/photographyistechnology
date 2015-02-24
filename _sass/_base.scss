@@ -229,8 +229,8 @@ pre {
 
 .social-sharing {
   li {
-    margin: 15px;
-    padding: 15px;
+    margin: 5px;
+    padding: 5px;
   }
   span {
     -webkit-border-radius: 5px;
@@ -254,25 +254,25 @@ pre {
   .mail-share {
     background-color: $grey-color-dark;
     &:hover {
-      background-color: darken($grey-color-dark, 15%)
+      background-color: darken($grey-color-dark, 5%)
     }
   }
   .fb-like {
     background-color: #3b5999;
     &:hover {
-      background-color: darken(#3b5999, 15%)
+      background-color: darken(#3b5999, 5%)
     }
   }
   .twitter-share {
     background-color: #55ACEE;
     &:hover {
-      background-color: darken(#55acee, 15%)
+      background-color: darken(#55acee, 5%)
     }
   }
   .tumblr-share {
     background-color: #35465c;
     &:hover {
-      background-color: darken(#35465c, 15%)
+      background-color: darken(#35465c, 5%)
     }
   }
 }

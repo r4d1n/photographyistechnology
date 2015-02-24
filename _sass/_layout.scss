@@ -260,7 +260,4 @@
   @include media-query($on-tablet) {
     display: block;
   }
-  // @include media-query($on-palm) {
-  //   margin-top: $spacing-unit * 2;
-  // }
 }
