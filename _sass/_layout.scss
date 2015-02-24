@@ -226,14 +226,18 @@
   line-height: $base-line-height;
 }
 
-/* Sharing divs */
+/* Sharing */
+
 .sidebar {
   position: fixed;
   top: 150px;
-  right: 45px;
+  right: 3%;
 
   @include media-query($on-tablet) {
     display: none;
+  }
+  @media screen and (min-width: $on-widescreen) {
+  right: 7.5%;
   }
 }
 
