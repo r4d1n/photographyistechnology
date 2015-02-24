@@ -244,7 +244,7 @@ pre {
     @include media-query($on-tablet) {
       font-size: $small-font-size + 5;
     }
-    @include media-query($on-palm) {
+    @include media-query($on-phone) {
       font-size: $small-font-size;
     }
   }
