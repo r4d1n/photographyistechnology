@@ -113,7 +113,7 @@
 * Page content
 */
 .page-content {
-  padding: $spacing-unit 0;
+  // padding: $spacing-unit 0;
 }
 
 .page-heading {
@@ -166,12 +166,12 @@
 
 .post-header {
   position: relative;
-  @include media-query($on-palm) {
-    margin-bottom: $spacing-unit * 2;
-  }
-  @include media-query($on-tablet) {
-    margin-bottom: $spacing-unit * 2 + 10;
-  }
+  // @include media-query($on-palm) {
+  //   margin-bottom: $spacing-unit * 2;
+  // }
+  // @include media-query($on-tablet) {
+  //   margin-bottom: $spacing-unit * 2 + 10;
+  // }
 }
 
 .post-link, .post-title {
@@ -179,7 +179,7 @@
   display: block;
   font-size: $med-font-size;
   color: $secondary-color;
-  margin-bottom: $spacing-unit;
+  margin: $spacing-unit 0;
   letter-spacing: -1px;
   line-height: 1;
 
@@ -189,6 +189,7 @@
 }
 
 .post-content {
+  position: relative;
   margin-bottom: $spacing-unit;
 
   h2 {
@@ -231,34 +232,35 @@
 .sidebar {
   position: fixed;
   top: 150px;
-  right: 3%;
+  right: 2%;
 
   @include media-query($on-tablet) {
     display: none;
   }
   @media screen and (min-width: $on-widescreen) {
-  right: 7.5%;
+    right: 5%;
   }
 }
 
 .mobile-sharing {
   display: none;
-  position: absolute;
-  top: $spacing-unit;
-  left: 5px;
+  height: 50px;
+  padding: ($spacing-unit / 2) 0;
   ul {
     margin: 0px;
     li {
       float: left;
-      padding-right: 5px;
+      margin: 0px 5px 0px 0px;
+      padding: 0px 5px 0px 0px;
     }
   }
+  .social-sharing span {
+    padding: 5px;
+  }
   @include media-query($on-tablet) {
-    padding-left: 5px;
     display: block;
-    margin-top: $spacing-unit;
   }
-  @include media-query($on-palm) {
-    margin-top: $spacing-unit * 2;
-  }
+  // @include media-query($on-palm) {
+  //   margin-top: $spacing-unit * 2;
+  // }
 }

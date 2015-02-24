@@ -228,13 +228,19 @@ pre {
 }
 
 .social-sharing {
+  li {
+    margin: 15px;
+    padding: 15px;
+  }
   span {
-    -webkit-border-radius: 3px;
-    -moz-border-radius: 3px;
-    border-radius: 3px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     width: $spacing-unit;
     height: $spacing-unit;
-    padding-bottom: 10px;
+    padding: 10px;
+    text-align: center;
+    line-height: 25px;
     @include media-query($on-tablet) {
       font-size: $small-font-size + 5;
     }
@@ -242,16 +248,31 @@ pre {
       font-size: $small-font-size;
     }
   }
-    .fb-like {
-      &,
-      &:visited {
-        color: #3b5999;
-      }
+  a {
+    color: #fdfdfd;
+  }
+  .mail-share {
+    background-color: $grey-color-dark;
+    &:hover {
+      background-color: darken($grey-color-dark, 15%)
     }
-    .twitter-share {
-      &,
-      &:visited {
-        color: #55ACEE;
-      }
+  }
+  .fb-like {
+    background-color: #3b5999;
+    &:hover {
+      background-color: darken(#3b5999, 15%)
     }
+  }
+  .twitter-share {
+    background-color: #55ACEE;
+    &:hover {
+      background-color: darken(#55acee, 15%)
+    }
+  }
+  .tumblr-share {
+    background-color: #35465c;
+    &:hover {
+      background-color: darken(#35465c, 15%)
+    }
+  }
 }
