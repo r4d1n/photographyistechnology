@@ -138,6 +138,7 @@
 .post-meta {
   font-size: $small-font-size;
   color: $grey-color;
+  padding-bottom: $spacing-unit;
 }
 
 .pagination {
@@ -232,13 +233,13 @@
 .sidebar {
   position: fixed;
   top: 150px;
-  right: 2%;
+  right: 2.5%;
 
   @include media-query($on-tablet) {
     display: none;
   }
   @media screen and (min-width: $on-widescreen) {
-    right: 5%;
+    right: 7.5%;
   }
 }
 

@@ -10,7 +10,7 @@ $base-font-family: "proxima-nova", sans-serif;
 $base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.8;
 $med-font-size: $base-font-size * 2.0;
-$big-font-size: $base-font-size * 2.75;
+$big-font-size: $base-font-size * 2.5;
 $base-line-height: 1.5;
 
 $header-font-family: "futura-pt", sans-serif;
@@ -27,11 +27,11 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
-$content-width:    960px;
+$content-width:    800px;
 
 $on-phone:          600px;
-$on-tablet:        1200px;
-$on-widescreen:    1400px;
+$on-tablet:        1000px;
+$on-widescreen:    1200px;
 
 
 
