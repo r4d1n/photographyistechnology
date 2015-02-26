@@ -39,7 +39,8 @@
 
 .site-footer {
   border-top: 5px solid $brand-color;
-  padding: $spacing-unit 0;
+  padding-top: $spacing-unit + 5;
+  padding-bottom: $spacing-unit;
   font-family: $header-font-family;
   // ul {
   //   @include media-query($on-tablet) {
@@ -148,7 +149,7 @@
   color: $grey-color;
   padding-bottom: $spacing-unit + 5px;
   text-align: center;
-  margin: 0 auto;
+  margin: 5px auto;
   height: 20px;
   font-size: $base-font-size;
   @extend .accent-link;
@@ -235,7 +236,7 @@
 
 .sidebar {
   position: fixed;
-  top: 150px;
+  top: 25%;
   right: 2.5%;
 
   @include media-query($on-tablet) {
