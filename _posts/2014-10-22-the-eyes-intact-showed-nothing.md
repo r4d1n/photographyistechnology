@@ -1,10 +1,10 @@
 ---
 title: '&#8220;The Eyes, Intact, Showed Nothing&#8221;'
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/10/22/the-eyes-intact-showed-nothing/
 categories:
-  - 'Books &amp; Literature'
+  - 'Literature'
 tags:
   - Books
   - cyborgs

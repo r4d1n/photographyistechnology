@@ -1,10 +1,9 @@
 ---
 title: A Photo From Iraq
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/06/22/a-photo-from-iraq/
-geo_public:
-  - 0
+
 categories:
   - Current Events
 tags:

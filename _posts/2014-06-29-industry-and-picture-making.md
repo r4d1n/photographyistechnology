@@ -1,10 +1,9 @@
 ---
 title: Industry and Picture-making
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/06/29/industry-and-picture-making/
-geo_public:
-  - 0
+
 categories:
   - Theory
 tags:

@@ -1,8 +1,10 @@
 # Site settings
 title: Photography Is Technology
 email: photographyistechnology@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  A blog about photography and technology.
+description: "A blog about photography and technology.
+Exploring the nature and implications of technologically enabled art in
+the era of globalized networks and industry."
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://photographyistechnology.com" # the base hostname & protocol for your site
 twitter_username: r4d1n

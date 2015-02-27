@@ -1,6 +1,6 @@
 ---
 title: 'Image-Texts: Joel Sternfeld, Jim Goldberg'
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/10/08/image-texts-1/
 categories:

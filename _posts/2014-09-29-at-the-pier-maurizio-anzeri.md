@@ -1,6 +1,6 @@
 ---
 title: 'At the Pier: Maurizio Anzeri'
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/09/29/at-the-pier-maurizio-anzeri/
 categories:

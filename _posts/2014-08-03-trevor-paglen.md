@@ -1,10 +1,9 @@
 ---
 title: 'Trevor Paglen: Research and Development/Art and Political Observation'
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/08/03/trevor-paglen/
-geo_public:
-- 0
+
 categories:
 - Fine Art
 tags:

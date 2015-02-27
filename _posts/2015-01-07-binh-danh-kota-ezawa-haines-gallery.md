@@ -1,6 +1,6 @@
 ---
 title: 'Binh Danh &#038; Kota Ezawa @ Haines Gallery'
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2015/01/07/binh-danh-kota-ezawa-haines-gallery/
 categories:

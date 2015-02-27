@@ -1,10 +1,9 @@
 ---
 title: Photography Is Technology
-author: photographyistechnology
+author: Jared Radin
 layout: post
-permalink: /2014/06/15/photography-is-technology-2/
-geo_public:
-- 0
+permalink: /2014/06/15/photography-is-technology/
+
 categories:
 - Theory
 tags:

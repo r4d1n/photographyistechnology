@@ -1,12 +1,10 @@
 ---
 title: Reflections On A Visit To The Internet Archive
-author: photographyistechnology
+author: Jared Radin
 layout: post
 permalink: /2014/11/28/reflections-on-a-visit-to-the-internet-archive/
 categories:
   - Current Events
-  - Silicon Valley
-  - Theory
 tags:
   - archives
   - Big Data
