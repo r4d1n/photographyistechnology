@@ -2,6 +2,7 @@
 * Site header
 */
 .site-header {
+  font-family: $header-font-family;
   border: solid $brand-color;
   border-width: 5px 0px;
   min-height: 56px;
