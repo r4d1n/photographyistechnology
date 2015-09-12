@@ -5,14 +5,15 @@ layout: post
 permalink: /2015/sebald-the-emigrants/
 
 categories:
-- Literature
+- literature
+- books
 tags:
-- Books
-- Fiction
-- History
-- Jews
-- Germany
-- Holocaust
+- fiction
+- history
+- jews
+- germany
+- europe
+- holocaust
 ---
 <blockquote>
 "Again and again, from front to back and from back to front, I leafed through the album that afternoon, and since then I have returned to it time and again, because, looking at the pictures, in it, it truly seemed to me, and still does, as if the dead were coming back, or as if we were on the point of joining them."

@@ -5,14 +5,14 @@ layout: post
 permalink: /2014/06/29/industry-and-picture-making/
 
 categories:
-  - Theory
+  - theory
 tags:
   - capitalism
   - commerce
   - industry
-  - Silicon Valley
+  - silicon valley
   - software
-  - "What's the point?"
+  - "what's the point?"
 ---
 Photography is an industrial art. The tools to make photographs are produced and improved according to market demands. For-profit firms develop and manufacture the hardware, software, and physical materials that photographers rely on to practice their craft, and so the medium itself is inherently tied to industry and, in the twenty-first century, the practices and patterns of globalized capitalism.
 

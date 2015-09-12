@@ -5,15 +5,17 @@ layout: post
 permalink: /2014/08/03/trevor-paglen/
 
 categories:
-- Fine Art
+- photography
+- fine art
 tags:
-- Abstract
 - government
+- security
+- politics
 - political art
-- 'R&amp;D'
+- research and development
+- science
 - secrecy
 - space
-- Statecraft
 - surveillance
 ---
 <figure>

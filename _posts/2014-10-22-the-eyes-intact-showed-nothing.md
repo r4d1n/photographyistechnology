@@ -4,15 +4,14 @@ author: Jared Radin
 layout: post
 permalink: /2014/10/22/the-eyes-intact-showed-nothing/
 categories:
-  - 'Literature'
+  - literature
+  - books
 tags:
-  - Books
   - cyborgs
-  - Literature
-  - Posthumanism
+  - fiction
+  - posthumanism
   - postmodernism
-  - reading
-  - Thomas Pynchon
+  - thomas pynchon
 ---
 Right now I&#8217;m re-reading *V.*, Thomas Pynchon&#8217;s first novel. This is my third or fourth time through the book, which I last read about four years ago. This is one of my all time favorites and I am enjoying it maybe more now than the first time I read it since I have a pretty good sense of the narrative and so can think more cogently about how the part that I am reading fits into the bigger picture. It&#8217;s also exciting to find the prose fresh and interesting, and to come across bits of wit or grace in the writing that I missed or forgot and so continue to surprise and delight me. <a href="http://nyti.ms/1sxlLs7" target="_blank">In the words of Paul Thomas Anderson</a>, “The only thing better than reading Pynchon is rereading Pynchon.”<!--more-->
 

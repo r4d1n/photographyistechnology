@@ -4,12 +4,13 @@ author: Jared Radin
 layout: post
 permalink: /2014/09/29/at-the-pier-maurizio-anzeri/
 categories:
-  - Fine Art
+  - fine art
 tags:
   - appropriation
   - archives
   - exhibitions
-  - Maurizio Anzeri
+  - collection
+  - maurizio anzeri
   - objects
   - Pier 24
   - Secondhand

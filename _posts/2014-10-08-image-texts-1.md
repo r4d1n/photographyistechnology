@@ -4,16 +4,16 @@ author: Jared Radin
 layout: post
 permalink: /2014/10/08/image-texts-1/
 categories:
-  - Fine Art
+  - fine art
+  - photography
+  - books
 tags:
-  - Books
-  - Documentary
-  - Fine Art
+  - documentary
   - Jim Goldberg
   - Joel Sternfeld
-  - Lectures
-  - photobooks
-  - writing photographers
+  - lectures
+  - photobook
+  - writing by photographers
 ---
 <figure>
 <img src="/assets/2014/sternfeld-sweet-earth.jpg" alt="Joel Sternfeld Sweet Earth" />

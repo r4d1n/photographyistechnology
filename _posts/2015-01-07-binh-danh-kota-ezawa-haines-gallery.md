@@ -4,19 +4,20 @@ author: Jared Radin
 layout: post
 permalink: /2015/01/07/binh-danh-kota-ezawa-haines-gallery/
 categories:
-  - Fine Art
+  - fine art
 tags:
-  - 49 Geary
-  - Adobe
+  - 49 geary
+  - adobe
   - appropriation
-  - Binh Danh
+  - binh danh
   - exhibitions
-  - Fine Art
+  - fine art
   - galleries
   - haines gallery
   - historical process
-  - Kota Ezawa
+  - kota ezawa
   - san francisco
+  - software
 ---
 <figure>
 <img src="/assets/2015/01/IMG_0423-1024x721.jpg" alt="Kota Ezawa at Haines Gallery" />

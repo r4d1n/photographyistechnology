@@ -5,15 +5,17 @@ layout: post
 permalink: /2014/06/22/a-photo-from-iraq/
 
 categories:
-  - Current Events
+  - news
 tags:
-  - Conflict
-  - Current Events
-  - International
-  - Mainstream Media
-  - Middle East
-  - Politics
-  - Terrorism
+  - war
+  - conflict
+  - photojournalism
+  - reportage
+  - current events
+  - mainstream media
+  - middle east
+  - politics
+  - terrorism
 ---
 <figure>
 <img src="http://static01.nyt.com/images/2014/06/16/world/JP-IRAQ/JP-IRAQ-articleLarge.jpg" alt="" />

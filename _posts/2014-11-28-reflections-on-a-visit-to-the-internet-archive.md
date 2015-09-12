@@ -4,19 +4,19 @@ author: Jared Radin
 layout: post
 permalink: /2014/11/28/reflections-on-a-visit-to-the-internet-archive/
 categories:
-  - Current Events
+  - news
 tags:
   - archives
-  - Big Data
-  - Current Events
-  - Democracy
+  - big data
+  - current events
+  - democracy
   - industry
   - institutions
-  - Internet Archive
+  - internet archive
   - libraries
   - open access
   - science
-  - Silicon Valley
+  - vilicon valley
   - software
   - surveillance
   - the web

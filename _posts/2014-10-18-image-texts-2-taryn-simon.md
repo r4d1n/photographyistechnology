@@ -4,19 +4,19 @@ author: Jared Radin
 layout: post
 permalink: /2014/10/18/image-texts-2-taryn-simon/
 categories:
-  - Fine Art
+- fine art
+- photography
+- books
 tags:
   - archives
-  - Books
-  - Documentary
-  - Fine Art
+  - documentary
   - government
   - photobooks
   - political art
-  - Politics
+  - politics
   - science
   - secrecy
-  - Taryn Simon
+  - taryn simon
 ---
 <figure><img src="/assets/2014/10/Simon_CIA.jpg" alt="The Central Intelligence Agency, Art CIA Original Headquarters Building Langley, Virginia" />
 

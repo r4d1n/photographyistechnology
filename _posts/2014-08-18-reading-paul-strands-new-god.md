@@ -4,15 +4,17 @@ author: Jared Radin
 layout: post
 permalink: /2014/08/18/reading-paul-strands-new-god/
 categories:
-  - Theory
+  - theory
+  - photography
+  - fine art
 tags:
   - capitalism
   - commerce
   - industry
   - reading
   - science
-  - "What's the point?"
-  - writing photographers
+  - "what's the point?"
+  - writing by photographers
 ---
 In <a href="/2014/06/29/industry-and-picture-making/">an earlier post</a> I began to wonder about the relationship between art and the tech industry, and I am continuing to think about photography as a medium at the intersection of art, science, and economics.
 

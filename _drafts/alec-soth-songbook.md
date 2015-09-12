@@ -5,9 +5,10 @@ layout: post
 permalink: /2015/alec-soth-songbook/
 
 categories:
-- Fine Art
+- photography
+- fine arts
+- books
 tags:
-- Books
 - America
 - Road Trips
 - Open Road

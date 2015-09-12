@@ -4,17 +4,19 @@ author: Jared Radin
 layout: post
 permalink: /2014/09/08/at-the-pier-erik-kessels/
 categories:
-  - Fine Art
+  - photography
+  - fine art
 tags:
   - appropriation
   - archives
   - curation
-  - Erik Kessels
+  - erik kessels
+  - dutch
   - exhibitions
   - installations
   - institutions
-  - Pier 24
-  - Secondhand
+  - pier 24
+  - secondhand
   - vernacular
 ---
 <figure>
