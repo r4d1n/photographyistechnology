@@ -20,7 +20,9 @@ tags:
 <img src="/assets/2015/11/disco-night-cover.jpg" alt="Disco Night Sept 11 by Peter Van Agtmael" />
 </figure>
 
-*Disco Night Sept 11*, a book of photographs and writing by Peter Van Agtmael, offer a vivid perspective of the American invasion of Afghanistan. This selection is broader than just those images that might appear in newspapers.
+I received this book as a gift last year when it came out and was moved to take it out again due to the recent anniversary of 9/11.
+
+*Disco Night Sept 11*, a book of photographs and writing by Peter Van Agtmael, offers a vivid perspective of the American invasion of Afghanistan.
 
 As a group, Van Agtmael's pictures depict a more holistic view of soldiers' experiences, along with glimpses of the impact of war on others, including the photographer himself. In his thoroughness, Van Agtmael is able to respectfully record pain and question its circumstances without being overtly political. The images are aesthetically straightforward but they are not detached; they suggest a photographer whose eyes are empathetic though they remain wide open.
 
