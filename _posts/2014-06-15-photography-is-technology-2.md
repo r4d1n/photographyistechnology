@@ -5,8 +5,9 @@ layout: post
 permalink: /2014/06/15/photography-is-technology/
 
 categories:
-- theory
+- photography
 tags:
+- theory
 - abstract
 - posthumanism
 - cyborgs
