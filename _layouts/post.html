@@ -7,65 +7,52 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">Posted: {{ page.date | date: "%b %-d, %Y" }}
       {% if page.meta %} • {{ page.meta }}{% endif %}</p>
-  </header>
+    </header>
 
-  <article class="post-content">
-    {{ content }}
-  </article>
+    <article class="post-content">
+      {{ content }}
+    </article>
 
     <div class="mobile-sharing">
       <ul class="social-sharing">
+        <li><span>Share:</span></li>
         <!-- <li>
           <a href="mailto:?subject={{ page.title }}+from+{{ site.title }}&body={{ page.shorturl}}"
           target="_blank" title="Share via Email">
-          <span class="fa fa-envelope fa-lg mail-share"></span>
-        </a>
-      </li> -->
-      <li>
-        <a href="https://www.facebook.com/sharer/sharer.php?
-        t={{ page.title }}
-        &u={{ page.shorturl }}"
-        target="_blank" title="Share on Facebook">
-        <span class="fa fa-facebook fa-lg fb-like"></span>
-      </a>
-    </li>
-    <li>
-      <a href="https://twitter.com/share?
-      url={{ page.shorturl }}
-      &via=r4d1n"
-      target="_blank">
-      <span class="fa fa-twitter fa-lg twitter-share"></span>
-    </a>
-  </li>
-  <li>
-    <a href="https://www.tumblr.com/share?
-    posttype=link
-    &show-via=r4d1n
-    &title={{ page.title }}
-    &content={{ page.title }} on {{ site.title }}"
-    target="_blank">
-    <span class="fa fa-tumblr fa-lg tumblr-share"></span></li>
-  </a>
-</li>
-</ul>
-</div>
+            <span class="fa fa-envelope fa-lg mail-share"></span>
+          </a>
+        </li> -->
+        <li>
+          <a href="https://www.facebook.com/sharer/sharer.php?t={{ page.title }}&u={{ page.shorturl }}"
+          target="_blank" title="Share on Facebook">
+            <span class="fa fa-facebook fa-lg fb-like"></span>
+          </a>
+        </li>
+        <li>
+            <a href="https://twitter.com/share?url={{ page.shorturl }}&via=r4d1n" target="_blank">
+                <span class="fa fa-twitter fa-lg twitter-share"></span>
+            </a>
+        </li>
+
+      </ul>
+    </div>
 </div>
 
 <div class="sidebar">
   <ul class="social-sharing">
     <!-- <li>
-      <a href="mailto:?subject=Photography+Is+Technology&body={{ page.title }}+from+{{ site.title }}+{{ page.shorturl}}"
-      target="_blank" title="Share via Email">
-      <span class="fa fa-envelope fa-lg mail-share"></span>
-    </a>
-  </li> -->
-  <li>
-    <a href="https://www.facebook.com/sharer/sharer.php?
-    t={{ page.title }}
-    &u={{ page.shorturl }}"
-    target="_blank" title="Share on Facebook">
-    <span class="fa fa-facebook fa-lg fb-like"></span>
+    <a href="mailto:?subject={{ page.title }}&body={{ page.title }}+from+{{ site.title }}+{{ page.shorturl}}"
+    target="_blank" title="Share via Email">
+    <span class="fa fa-envelope fa-lg mail-share"></span>
   </a>
+</li> -->
+<li>
+  <a href="https://www.facebook.com/sharer/sharer.php?
+  t={{ page.title }}
+  &u={{ page.shorturl }}"
+  target="_blank" title="Share on Facebook">
+  <span class="fa fa-facebook fa-lg fb-like"></span>
+</a>
 </li>
 <li>
   <a href="https://twitter.com/share?
@@ -75,7 +62,7 @@ layout: default
   <span class="fa fa-twitter fa-lg twitter-share"></span>
 </a>
 </li>
-<li>
+<!-- <li>
   <a href="https://www.tumblr.com/share?
   posttype=link
   &show-via=r4d1n
@@ -83,7 +70,7 @@ layout: default
   &content={{ page.title }} on {{ site.title }}"
   target="_blank">
   <span class="fa fa-tumblr fa-lg tumblr-share"></span></li>
-</a>
+</a> -->
 </li>
 </ul>
 </div>
