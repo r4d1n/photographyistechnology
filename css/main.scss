@@ -7,20 +7,20 @@
 
 // Variables
 $base-font-family: "proxima-nova", sans-serif;
+$header-font-family: "factoria", sans-serif;
+
 $base-font-size:   20px;
 $small-font-size:  $base-font-size * 0.8;
 $med-font-size: $base-font-size * 2.0;
 $big-font-size: $base-font-size * 2.5;
+
 $base-line-height: 1.5;
-
-$header-font-family: "futura-pt", sans-serif;
-
 $spacing-unit:     25px;
 
 $text-color:       #000;
 $background-color: #fff;
-$brand-color:      #ff6666;
-$secondary-color: #33cccc;
+$brand-color:      #ff1a1a;  // #ff6666;
+$secondary-color:  #1A1AFF; // #33cccc;
 
 $grey-color:       #999;
 $grey-color-light: lighten($grey-color, 40%);

@@ -20,7 +20,6 @@
   text-align: center;
   display: block;
   text-transform: uppercase;
-  // font-weight: 700;
 
   @include media-query($on-phone) {
     font-size: $big-font-size * .5;
@@ -139,7 +138,7 @@
 
 .post-meta {
   font-size: $small-font-size;
-  color: $grey-color;
+  color: $brand-color;
 
   @media screen and (min-width: 1000px) {
     padding-bottom: $spacing-unit;
