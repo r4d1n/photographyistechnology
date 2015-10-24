@@ -10,12 +10,12 @@ layout: default
 
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <span class="post-meta in-excerpt">Posted: {{ post.date | date: "%b %-d, %Y" }}</span>
       </h2>
       <div class="excerpt">
         {{ post.excerpt }}
       </div>
-      <span class="post-meta in-excerpt">Posted: {{ post.date | date: "%b %-d, %Y" }}</span>
-      <br />
+      <!-- <br /> -->
       <span class="read-more accent-link"><a href="{{ post.url | prepend: site.baseurl }}">Read More</a></span>
     </li>
     {% endfor %}

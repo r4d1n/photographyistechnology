@@ -6,12 +6,12 @@ Exploring the nature and implications of technologically enabled art in
 the era of globalized networks and industry."
 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://photographyistechnology.com" # the base hostname & protocol for your site
+url: "http://blog.r4d1n.net" # the base hostname & protocol for your site
 twitter_username: r4d1n
 github_username:  r4d1n
 instagram_username: r4d1n
 
-paginate: 3
+paginate: 4
 paginate_path: "/:num/"
 excerpt_separator: <!--more-->
 

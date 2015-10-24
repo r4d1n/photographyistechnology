@@ -159,6 +159,10 @@
     line-height: 20px;
   }
 
+  span.page_number {
+    color: $text-color;
+  }
+
   .previous {
     padding-right: $spacing-unit / 3;
   }
@@ -185,7 +189,7 @@
   display: block;
   font-size: $med-font-size;
   color: $secondary-color;
-  margin: $spacing-unit 0;
+  margin: $spacing-unit / 2 0;
   letter-spacing: -1px;
   line-height: 1;
 
