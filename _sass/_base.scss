@@ -23,7 +23,7 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
-p {
+p:not(.post-meta) {
   font-family: $copy-font-family;
 }
 
