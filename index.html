@@ -10,7 +10,7 @@ layout: default
 
       <h2>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <span class="post-meta in-excerpt">Posted: {{ post.date | date: "%b %-d, %Y" }}</span>
+        <p class="post-meta in-excerpt">Posted: {{ post.date | date: "%b %-d, %Y" }}</p>
       </h2>
       <div class="excerpt">
         {{ post.excerpt }}

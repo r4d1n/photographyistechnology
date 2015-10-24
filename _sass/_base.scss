@@ -23,6 +23,10 @@ body {
   -webkit-text-size-adjust: 100%;
 }
 
+p {
+  font-family: $copy-font-family;
+}
+
 em {
   font-style: italic;
 }

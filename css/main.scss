@@ -6,8 +6,9 @@
 
 
 // Variables
-$base-font-family: "proxima-nova", sans-serif;
-$header-font-family: "futura-pt", sans-serif;
+$base-font-family: "futura-pt", sans-serif; // "proxima-nova", sans-serif;
+$header-font-family: $base-font-family; // "futura-pt", sans-serif;
+$copy-font-family : "proxima-nova", sans-serif;
 
 $base-font-size:   24px;
 $small-font-size:  $base-font-size * 0.8;
