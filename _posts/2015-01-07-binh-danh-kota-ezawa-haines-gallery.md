@@ -2,7 +2,7 @@
 title: 'Binh Danh &#038; Kota Ezawa'
 author: Jared Radin
 layout: post
-permalink: /2015/01/07/binh-danh-kota-ezawa/
+permalink: /2015/binh-danh-kota-ezawa/
 categories:
   - fine art
 tags:

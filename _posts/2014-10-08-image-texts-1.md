@@ -2,7 +2,7 @@
 title: 'Image-Texts: Sternfeld & Goldberg'
 author: Jared Radin
 layout: post
-permalink: /2014/10/08/image-texts-1/
+permalink: /2014/image-texts-1/
 categories:
   - fine art
   - photography

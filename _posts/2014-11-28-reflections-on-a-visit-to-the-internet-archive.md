@@ -2,7 +2,7 @@
 title: A Visit To The Internet Archive
 author: Jared Radin
 layout: post
-permalink: /2014/11/28/a-visit-to-the-internet-archive/
+permalink: /2014/a-visit-to-the-internet-archive/
 categories:
   - news
 tags:

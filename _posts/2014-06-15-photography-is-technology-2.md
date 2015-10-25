@@ -2,7 +2,7 @@
 title: Photography Is Technology
 author: Jared Radin
 layout: post
-permalink: /2014/06/15/photography-is-technology/
+permalink: /2014/photography-is-technology/
 
 categories:
 - photography

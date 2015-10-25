@@ -2,7 +2,7 @@
 title: 'Watching the Web: Kurt Caviezel'
 author: Jared Radin
 layout: post
-permalink: /2015/10/05/kurt-caviezel/
+permalink: /2015/kurt-caviezel/
 
 categories:
 - photography

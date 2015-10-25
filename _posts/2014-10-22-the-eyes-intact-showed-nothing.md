@@ -2,7 +2,7 @@
 title: 'The Eyes, Intact'
 author: Jared Radin
 layout: post
-permalink: /2014/10/22/the-eyes-intact/
+permalink: /2014/the-eyes-intact/
 categories:
   - literature
   - books

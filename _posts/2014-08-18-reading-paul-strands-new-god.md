@@ -2,7 +2,7 @@
 title: 'Reading Paul Strand&#8217;s New God'
 author: Jared Radin
 layout: post
-permalink: /2014/08/18/reading-paul-strands-new-god/
+permalink: /2014/reading-paul-strands-new-god/
 categories:
   - theory
   - photography

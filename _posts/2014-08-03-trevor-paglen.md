@@ -2,7 +2,7 @@
 title: 'Trevor Paglen: Research and Development/Art and Politics'
 author: Jared Radin
 layout: post
-permalink: /2014/08/03/trevor-paglen/
+permalink: /2014/trevor-paglen/
 
 categories:
 - photography
