@@ -1,5 +1,5 @@
 ---
-title: '&#8220;The Eyes, Intact, Showed Nothing&#8221;'
+title: '&#8220;The Eyes, Intact&#8221;'
 author: Jared Radin
 layout: post
 permalink: /2014/10/22/the-eyes-intact-showed-nothing/

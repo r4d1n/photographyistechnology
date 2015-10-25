@@ -34,9 +34,9 @@ As a group, Van Agtmael's pictures depict a more holistic view of soldiers' expe
 
 Short texts, between one sentence and one page long, accompany the photographs. Most are written by the photographer, but there are also some (particularly interesting) excerpts from interviews (with veterans, or Van Agtmael's own father). Much of the writing includes the first person, which somehow makes it feel more real than the more detached language of news.
 
-<figure>
+<!-- <figure>
 <img src="/assets/2015/09/after-ied.jpg" alt="Disco Night Sept 11 by Peter Van Agtmael" />
-</figure>
+</figure> -->
 
 The pictures in this book are difficult to look away from or forget, and the written passages are simply wrenching. They describe the war and the consequences faced by American participants (most of whom are quite young) and their families. They also paint an especially bleak picture with regard to the effect of the United States' actions on the nations that were invaded after 9/11.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Binh Danh &#038; Kota Ezawa @ Haines'
+title: 'Binh Danh &#038; Kota Ezawa'
 author: Jared Radin
 layout: post
 permalink: /2015/01/07/binh-danh-kota-ezawa-haines-gallery/

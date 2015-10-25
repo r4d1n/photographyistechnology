@@ -1,5 +1,5 @@
 ---
-title: 'Image-Texts: Joel Sternfeld, Jim Goldberg'
+title: 'Image-Texts: Sternfeld & Goldberg'
 author: Jared Radin
 layout: post
 permalink: /2014/10/08/image-texts-1/
