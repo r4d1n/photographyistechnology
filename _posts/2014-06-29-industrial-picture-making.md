@@ -1,8 +1,8 @@
 ---
-title: Industry and Picture-making
+title: Industrial Picture Making
 author: Jared Radin
 layout: post
-permalink: /2014/06/29/industry-and-picture-making/
+permalink: /2014/06/29/industrial-picture-making/
 
 categories:
   - theory
