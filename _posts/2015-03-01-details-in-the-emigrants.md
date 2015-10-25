@@ -2,7 +2,7 @@
 title: "Details in Sebald's <em>The Emigrants</em>"
 author: Jared Radin
 layout: post
-permalink: /2015/sebald-the-emigrants/
+permalink: /2015/03/01/sebald-the-emigrants/
 
 categories:
 - literature
