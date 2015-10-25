@@ -1,8 +1,8 @@
 ---
-title: "Exploring the Amazonian Cloud"
+title: "Amazon Cloud City"
 author: Jared Radin
 layout: post
-permalink: /2015/the-amazonian-cloud/
+permalink: /2015/amazon-cloud-city/
 
 categories:
 - technology
@@ -23,7 +23,7 @@ tags:
 
 Amazon is a high profile company with a lot of customers, that faces criticism (from critical folks) for its labor politics (but not as much as Uber). This was highlighted most recently in a New York Times piece about the experiences of some white collar employees in Seattle, though by all accounts working in the warehouse is more brutal.
 However, as far as I can tell, most people who don't work in technology are unaware of Amazon Web Services, the company's cloud-computing infrastructure, which ([according to Wikipedia](https://en.wikipedia.org/wiki/Amazon_Web_Services)) was productized as a source of additional revenue after being designed and built initially to support Amazon's retail operations.
-Apparently (again, skimming the Wikipedia) customers include not only Pinterest and Netflix, but also NASA and the CIA.
+Apparently (again, skimming the Wikipedia) some of the more high profile customers include not only Pinterest and Netflix, but also NASA and the CIA.
 
 <!--more-->
 
@@ -47,7 +47,7 @@ Better understanding the scope of Amazon's cloud business also gave me a lot to 
 
 In the physical world, infrastructure like roads and bridges are built and maintained by the government.
 It seems important that these are part of the commons, even if they are frequently hindered by corruption and negligence, [if not outright disregarded](http://www.infrastructurereportcard.org/).
-The roads in my current neighborhood are not well maintained and apparently [even the new Bay Bridge has some serious flaws](http://sfist.com/2015/06/24/bay_bridge_bolts_show_more_ominous.php). Still, the idea of private roads and bridges seems kind of dystopian.
+The roads in my current neighborhood are not well maintained and apparently [even the new Bay Bridge has some serious flaws](http://www.sfgate.com/bayarea/article/Fears-of-failure-grow-for-rods-on-Bay-Bridge-6588743.php). Still, the idea of private roads and bridges seems kind of dystopian.
 But then no public service come close to something like AWS, which is obsessively engineered to be excellent and work perfectly 99.9999% of the time.
 
 The libertarian idea that government can't do anything but hinder beautiful private innovation is common in Silicon Vally, and the tension between public and private projects is a frequently debated, highly contentious subject in modern American politics. Personally, [I am starting to feel that there is rarely a catch-all solution to political problems and the best way lies in flexible acceptance of diverse answers as necessary depending on the task at hand](https://youtu.be/wY6454QetqM). But that may be a little subtle for the mainstream discourse at this time.
@@ -56,14 +56,31 @@ Though ARPANET was a government project, the modern web is largely governed by p
 
 The network gets Pynchonian pretty fast.
 
-Mostly what I am curious about now is if the difference between the execution of the Bay Bridge versus AWS (to simplify things dramatically) is inherent in the two styles of institutions, and whether there can be democratic organizations that are also resilient and resolute enough to bend, grow, shed as the scenario demands.
-Would they be able to make the technological leaps that may be required, say, to create the sorts of sustainable mega-cities that would characterize a more successful human future?
+I have a lot of questions.
 
-Uber is a really interesting example here, because it seems like their blue sky ambition for the long term is to build basically a network of autonomous buses around the world. Basically physical infrastructure, more closely aligned to areas that the state already controls. But then, why can't there just be high speed trains that go from any part of a city to any other part? Are cities that depend on cars really a good idea in the first place?
+Is the difference between the execution of the Bay Bridge versus AWS (to simplify things dramatically) inherent in the two types of institutions? Both are hierarchical. One driven by the prerogatives of the marketplace, fueled by data; the other is organized by Caltrans, a state agency, but contracted out to construction firms. What is interesting about putting it in these terms is that it seems like Amazon has a clearer reason to deliver the best possible result. They have to, in order to exist. But Caltrans has its sanctioned responsibilities, and that bureaucracy will continue to exist no matter what happens. This, of course, is part of the libertarian line of thought, which is compelling but again not wholly convincing since, [from what I can tell, there is as much incompetence and malfeasance in many corporations as there is in politics](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308).
 
-I wouldn't argue that BART is a very successful service, but is that because of the nature of government, or because of the way it's viewed and treated? Uber raised venture capital, public services take taxes. That's definitely near the root of the aggression toward public services that appears among some American policymakers, entrepreneurs, and (especially) grassroots conservatives. Uber started from scratch a few years ago, the government and BART are working with legacy institutions and infrastructure that was not necessarily planned with the unfolding present or impending future in mind. That's not really an accident, though, or an excuse. Why are there broken bolts on a brand new bridge?
+Can there be democratic organizations that are also resilient and resolute enough to bend, grow, and shed as unpredictable scenarios demand?
 
+Will they be capable of making the technological leaps that may be required, say, to create the sorts of sustainable mega-cities that will likely characterize a successful human future over the next 20 years?
 
+Uber is a really interesting example here, because it seems like their blue sky ambition for the long term is to build a network of autonomous bus-cars around the world. Basically physical infrastructure, more closely aligned to areas that the state already controls.
+
+But then, why can't there just be high speed trains that go from any part of a city to any other part?
+Were cities that depend on cars really a good idea in the first place?
+Who decided that so many American cities and suburbs should be organized around roads, and the ownership of cars?
+
+I wouldn't argue that BART is a very successful service, but is that because of the nature of government, or because of the way it's viewed and treated?
+
+Uber raised venture capital; public services take taxes. That's definitely near the root of the aggression toward public services that appears among some American policymakers, entrepreneurs, and (especially) grassroots conservatives. Uber started from scratch a few years ago, the government and BART are working with legacy institutions and infrastructure that was not necessarily planned with the unfolding present or impending future in mind. That's not really an accident, though, or an excuse. Why are there broken bolts on a brand new, $6.5 billion bridge?
+
+In a lot of ways it seems like [artificial intelligence will be critical to the operation of successful cities](https://www.newscientist.com/article/mg22329764-000-the-ai-boss-that-deploys-hong-kongs-subway-engineers/) going forward.
+What will cities run by software be like? And how will it impact us that the software is produced by Uber (or similar), with the law gasping behind trying to keep up?
+Will it be great, like the experience of using Amazon Web Services to do powerful computing in the cloud?
+Will there still be mistakes, like using bolts with the wrong threads on the Bay Bridge, or invading Iraq?
+Will there be more or less accountability than there is today?
+
+In Ursula Leguin's book *The Dispossessed*, a barren moon colony where the members of a non-hierarchical anarchist society is organized by a powerful AI that the anarchists originally brought with them when they abandoned the Earth-like, state-dominated planet from whence they came. 
 
 <figure>
   <img src="/assets/2015/10/aws-loft/cloud-kegerator.jpg" />
