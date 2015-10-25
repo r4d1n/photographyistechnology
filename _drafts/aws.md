@@ -52,14 +52,13 @@ But then no public service come close to something like AWS, which is obsessivel
 
 The libertarian idea that government can't do anything but hinder beautiful private innovation is common in Silicon Vally, and the tension between public and private projects is a frequently debated, highly contentious subject in modern American politics. Personally, I am starting to feel that there is rarely a catch-all solution to political problems and the best way lies in flexible acceptance of diverse answers as necessary depending on the task at hand. But that may be a little subtle for the mainstream discourse at this time.
 
-Back to the web. Though ARPANET was a government project, the modern web is largely governed by privately held companies, from Service Providers, to hosting companies, to web-based applications, services, and stores. While anyone can still set up a computer at home to serve their hand-rolled personal site, entities like Google or Facebook, who have made the web more usable and useful to billions of people, maintain control over what is widely disseminated. This can all get very meta very quickly, when your social network is running on AWS servers, and users are accessing them over AT&T connections, and the wires there are tapped...
+Back to the web. Though ARPANET was a government project, the modern web is largely governed by privately held companies, from Service Providers, to hosting companies, to web-based applications, services, and stores. While anyone can still set up a computer at home to serve their hand-rolled personal site, entities like Google or Facebook, who have made the web more usable and useful to billions of people, maintain control over what is widely disseminated. This can all get very meta very quickly, when your social network is running on AWS servers, and users are accessing them over AT&T connections, and the switches there are tapped...
 
-Networks can get pretty Pynchonian fast.
-
+The network gets Pynchonian pretty fast.
 
 <figure>
   <img src="/assets/2015/10/aws-loft/cloud-kegerator.jpg" />
   <figcaption>
-    The loft has a cloud connected kegerator that uses several AWS products to track and visualize the duration and volume of beer pours.
+    In addition to co-working space, technical tutorials, and one-on-one consultations with AWS experts, the loft has a cloud connected kegerator that uses several AWS products to track and visualize the duration and volume of beer pours.
   </figcaption>
 </figure>

@@ -253,11 +253,12 @@ pre {
     padding: 10px;
     text-align: center;
     line-height: 25px;
+    font-size: $base-font-size;
     @include media-query($on-tablet) {
-      font-size: $small-font-size + 5;
+      // font-size: $small-font-size + 5;
     }
     @include media-query($on-phone) {
-      font-size: $small-font-size;
+      // font-size: $small-font-size;
     }
   }
   a {
