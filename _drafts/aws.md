@@ -1,8 +1,8 @@
 ---
-title: "Amazon Cloud City"
+title: "Cloud City"
 author: Jared Radin
 layout: post
-permalink: /2015/amazon-cloud-city/
+permalink: /2015/cloud-city/
 
 categories:
 - technology
@@ -11,6 +11,8 @@ tags:
 - industry
 - silicon valley
 - amazon
+- cities
+- artificial intelligence
 - big tech companies
 - internet
 - web
@@ -32,9 +34,9 @@ I have purchased a wide variety of goods from Amazon, but the company runs no ph
 
 One of my coworkers who is a big fan of AWS likes to say that it makes developers into a one person army. It is indeed a powerful feeling to spin up and destroy virtual servers en masse, to set rules that will do so automatically, to quickly connect to various types of basically bottomless storage, and to make it all accessible from anywhere in the world. Basically, things that would have required massive expense and the commissioning of physical computers (perhaps even buildings) ten years ago.
 
-[This lecture by Douglas Crockford](https://youtu.be/JxAXlJEmNMg) contains a great history of the development of personal computers and the web that describes various iterations of computers such as single processors requiring highly specialized facilities to run, as well as the use of teletype terminals from which one could utilize a mainframe computer remotely, paying to use its computing power when necessary without owning the entire machine.
+[This lecture by Douglas Crockford](https://youtu.be/JxAXlJEmNMg) contains a great history of the development of personal computers and the web. He describes various iterations of computers such as single processors that took up whole rooms and required specialized facilities to run, and teletype terminals from which one could utilize a mainframe computer remotely, paying to use its computing power when necessary without owning or maintaining the entire machine.
 
-In a way, the rise of cloud computing seems like a shift to a paradigm that parallels that of terminals and mainframes. Nowadays, many people use smaller, less powerful computers like smartphones and tablets, not just alongside but instead of laptops or desktop PCs.
+In a way, the rise of cloud computing seems like a shift back to a paradigm like terminals and mainframes. Nowadays, many people use smaller, less powerful computers like smartphones and tablets, not just alongside but instead of laptops or desktop PCs.
 Some applications on smartphones are mainly used on the device itself, like games or photo editors, but for the most part such devices are typically used to access a variety of web services, like email, social media, file storage, banking, shopping, etc. The phone runs a client app (or is pointed at a website) that communicates over the network with a central system where the main computation happens and information is stored.
 I think the similarity to a mainframe with a teletype terminal is most apparent in Chromebooks, which have are designed to be used almost exclusively with and Internet connection, since the use of cloud storage and applications like Google Docs integrated directly into their operating systems, but the idea is still pretty similar to how phones are used, except they also double as point-and-shoot cameras.
 
@@ -70,17 +72,19 @@ But then, why can't there just be high speed trains that go from any part of a c
 Were cities that depend on cars really a good idea in the first place?
 Who decided that so many American cities and suburbs should be organized around roads, and the ownership of cars?
 
-I wouldn't argue that BART is a very successful service, but is that because of the nature of government, or because of the way it's viewed and treated?
+Uber raised venture capital; public services take taxes. That's definitely near the root of the aggression toward public services that appears among some American policymakers, entrepreneurs, and (especially) grassroots conservatives. Uber started from scratch a few years ago, while Caltrans is a legacy institution dealing with legacy infrastructure is not in the cloud but stamped across the landscape already. That's not really an accident, though, or an excuse. Why are there broken bolts on a brand new, $6.5 billion bridge?
 
-Uber raised venture capital; public services take taxes. That's definitely near the root of the aggression toward public services that appears among some American policymakers, entrepreneurs, and (especially) grassroots conservatives. Uber started from scratch a few years ago, the government and BART are working with legacy institutions and infrastructure that was not necessarily planned with the unfolding present or impending future in mind. That's not really an accident, though, or an excuse. Why are there broken bolts on a brand new, $6.5 billion bridge?
+In Ursula Leguin's book *The Dispossessed*, a non-hierarchical anarchist society on a barren moon is run with the help of an AI that was originally developed on the Earth-like, state-dominated planet from whence the anarchists came. The computer organizes everything and assigns people work so they can collectively survive with little resources in a difficult natural environment. While anyone is free to ask for a different assignment or refuse to work outright, a culture in which individuals are shamed for endangering the group enforces conformity.
+I find this book really interesting because a) it shows how the utopian life I sometimes dream of might actually be miserable to live in and b) it predicates that society's development on the prior existence of a technologically advanced capitalist system, which ultimately made it possible for the moon colony to survive.
 
-In a lot of ways it seems like [artificial intelligence will be critical to the operation of successful cities](https://www.newscientist.com/article/mg22329764-000-the-ai-boss-that-deploys-hong-kongs-subway-engineers/) going forward.
-What will cities run by software be like? And how will it impact us that the software is produced by Uber (or similar), with the law gasping behind trying to keep up?
+It seems like [artificial intelligence will be critical to the operation of successful cities](https://www.newscientist.com/article/mg22329764-000-the-ai-boss-that-deploys-hong-kongs-subway-engineers/) going forward.
+
+What will cities run by software be like?
 Will it be great, like the experience of using Amazon Web Services to do powerful computing in the cloud?
 Will there still be mistakes, like using bolts with the wrong threads on the Bay Bridge, or invading Iraq?
 Will there be more or less accountability than there is today?
 
-In Ursula Leguin's book *The Dispossessed*, a barren moon colony where the members of a non-hierarchical anarchist society is organized by a powerful AI that the anarchists originally brought with them when they abandoned the Earth-like, state-dominated planet from whence they came. 
+Who will live in the cloud city?
 
 <figure>
   <img src="/assets/2015/10/aws-loft/cloud-kegerator.jpg" />
