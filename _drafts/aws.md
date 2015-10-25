@@ -1,8 +1,8 @@
 ---
-title: "Visiting Amazon's Cloud"
+title: "Exploring the Amazonian Cloud"
 author: Jared Radin
 layout: post
-permalink: /2015/aws-loft-thoughts/
+permalink: /2015/the-amazonian-cloud/
 
 categories:
 - technology
@@ -18,7 +18,7 @@ tags:
 - the cloud
 ---
 <figure>
-<img src="/assets/2015/10/aws-loft/pop-up-loft-sign.jpeg" />
+<img src="/assets/2015/10/aws-loft/pop-up-loft-sign.jpeg" alt="outside the amazon web services pop-up loft on Market Street in San Francisco" />
 </figure>
 
 Amazon is a high profile company with a lot of customers, that faces criticism (from critical folks) for its labor politics (but not as much as Uber). This was highlighted most recently in a New York Times piece about the experiences of some white collar employees in Seattle, though by all accounts working in the warehouse is more brutal.
@@ -40,13 +40,16 @@ I think the similarity to a mainframe with a teletype terminal is most apparent 
 
 A shift is thus occurring in the whole definition of personal computing and the place of general purpose computers in society going forward. My "real" computer is at this point used almost entirely for particular purposes that require local computational power -- either photo and video editing or programming -- and I noticed when I first got a smartphone that I ended up spending a lot less time sitting at my desk aimlessly browsing the web after checking my email, because I no longer sat down at my desk to check my email at all.
 
-This is pretty cool, but at the same time it also means that a lot more people who use computers will not necessarily be able to tinker and understand how they work, because these devices are usually more locked down than a full-blown machine where it's easy enough to install your own OS or software from anywhere. This is good for security and reliability but I do worry about the obfuscation of underlying mechanisms and the propagation of the sense that technology really is magic.
+This is pretty cool, but at the same time it also means that a lot more people who use computers will not necessarily be able to tinker and understand how they work, because these devices are usually more locked down than a full-blown machine where it's easy enough to install your own operating system and any software you want. This is good for security and reliability but I do worry about the obfuscation of underlying mechanisms and the propagation of the sense that technology really is magic.
 
-From my perspective as a developer and as an artist who is interested in incorporating computers into my practice, the cloud represents both a tremendous potential asset and a fascinating subject in and of itself. At the workshop I learned some of the basics of using the primary AWS offerings, like EC2 servers, elastic load balancers, and the managed relational database service, and also gained some insight into what the plethora of other services are used for. The whole thing is an astounding technical achievement and I am looking forward to hosting sites or applications of my own on AWS, or maybe making use of EC2 or Lambda to run some web scrapers.
+From my perspective as a developer and as an artist who is interested in incorporating computers into my practice, the cloud represents both a tremendous potential asset and a fascinating subject in and of itself. At the workshop I learned some of the basics of using the primary AWS offerings, like EC2 servers, load balancers, and the managed relational database service, and also gained some insight into what the plethora of other services are used for. The whole thing is an astounding technical achievement and I am looking forward to hosting sites or applications of my own on AWS, or maybe making use of EC2 or Lambda to run some web scrapers.
 Better understanding the scope of Amazon's cloud business also gave me a lot to think about in terms of the role of infrastructure companies in shaping how the Internet is organized and run.
 
-In the physical world, infrastructure like roads and bridges are built and maintained by the government. Where I live right now, the roads are not very well maintained and apparently [even the new Bay Bridge has some serious flaws](http://sfist.com/2015/06/24/bay_bridge_bolts_show_more_ominous.php). But it's still nice to know that roads and such are part of the commons, even though they are [sorely disregarded](http://www.infrastructurereportcard.org/). The idea of private roads and bridges, access to which is contingent on corporate whims, seems kind of dystopian. At the same time, there is not really any physical world, publically-sponsored equivalent to something like AWS, which is obsessively engineered to be excellent and work perfectly 99.999% of the time.
-This tension between public and private projects is a common theme in American politics and I have a feeling it will come up a lot as we hurtle toward the election next November.
+In the physical world, infrastructure like roads and bridges are built and maintained by the government.
+It seems important that roads and such are part of the commons, even if they are frequently hindered by corruption and negligence, [if not outright disregarded](http://www.infrastructurereportcard.org/).
+The roads in my current neighborhood are not well maintained and apparently [even the new Bay Bridge has some serious flaws](http://sfist.com/2015/06/24/bay_bridge_bolts_show_more_ominous.php). Still, the idea of private roads and bridges, access to which is contingent on corporate whims, seems kind of dystopian. But then there is not really any publicly handled equivalent to something like AWS, which is obsessively engineered to be excellent and work perfectly 99.999% of the time.
+
+The libertarian idea that government can't do anything but hinder beautiful private innovation is common in Silicon Vally, and the tension between public and private projects is a frequently debated, highly contentious subject in modern American politics.
 
 
 <figure>

@@ -22,7 +22,7 @@
   text-transform: uppercase;
 
   @include media-query($on-phone) {
-    font-size: $big-font-size * .5;
+    font-size: $base-font-size;
     padding: $spacing-unit * .5;
     line-height: 40px;
   }
@@ -128,21 +128,18 @@
 }
 
 .post-list {
+  margin-top: $spacing-unit / 2;
   margin-left: 0;
   list-style: none;
-
-  > li {
-    margin-bottom: $spacing-unit;
-  }
 }
 
 .post-meta {
-  font-size: $small-font-size;
+  font-size: $base-font-size;
   color: $brand-color;
 
-  @media screen and (min-width: 1000px) {
-    // padding-bottom: $spacing-unit;
-  }
+  // @include media-query($on-phone) {
+  //   font-size: $base-font-size;
+  // }
 }
 
 .pagination {
@@ -186,12 +183,22 @@
   color: $secondary-color;
   margin: $spacing-unit / 2 0;
   letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.5;
+}
 
+.post-link, .post-title {
   @include media-query($on-phone) {
-    font-size: $med-font-size * .8;
+    font-size: $base-font-size;
+    margin-bottom: $spacing-unit / 4;
   }
 }
+
+// .post-title {
+//   @include media-query($on-phone) {
+//     font-size: $base-font-size;
+//     margin-bottom: $spacing-unit / 4;
+//   }
+// }
 
 .post-content {
   position: relative;
@@ -223,7 +230,6 @@
 }
 
 .post-list li {
-  padding-bottom: 20px;
   border-bottom: 1px solid $grey-color;
 }
 
