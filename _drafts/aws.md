@@ -54,13 +54,15 @@ But then no public service come close to something like AWS, which is obsessivel
 
 The libertarian idea that government can't do anything but hinder beautiful private innovation is common in Silicon Vally, and the tension between public and private projects is a frequently debated, highly contentious subject in modern American politics. Personally, [I am starting to feel that there is rarely a catch-all solution to political problems and the best way lies in flexible acceptance of diverse answers as necessary depending on the task at hand](https://youtu.be/wY6454QetqM). But that may be a little subtle for the mainstream discourse at this time.
 
-Though ARPANET was a government project, the modern web is largely governed by privately held companies, from Service Providers, to hosting companies, to web-based applications, services, and stores. While anyone can still set up a computer at home to serve their hand-rolled personal site, entities like Google or Facebook, who have made the web more usable and useful to billions of people, maintain control over what is widely disseminated. This can all get very meta very quickly, when your social network is running on AWS servers, and users are accessing them over AT&T connections, and the switches there are tapped...
+Though ARPANET was a government project, the modern web is largely governed by privately held companies, from Service Providers, to hosting companies, to web-based applications, services, and stores. While anyone can still set up a computer at home to serve their hand-rolled personal site, entities like Google or Facebook, who have made the web more usable and useful to billions of people, maintain control over what is widely disseminated. This can all get very meta very quickly, when your social network is running on AWS servers, and users are accessing them over AT&T wireless connections, and the switches there are tapped...
 
 The network gets Pynchonian pretty fast.
 
-I have a lot of questions.
+As I am a curious person, I have a lot of questions about all this that will probably never receive direct answers.
 
-Is the difference between the execution of the Bay Bridge versus AWS (to simplify things dramatically) inherent in the two types of institutions? Both are hierarchical. One driven by the prerogatives of the marketplace, fueled by data; the other is organized by Caltrans, a state agency, but contracted out to construction firms. What is interesting about putting it in these terms is that it seems like Amazon has a clearer reason to deliver the best possible result. They have to, in order to exist. But Caltrans has its sanctioned responsibilities, and that bureaucracy will continue to exist no matter what happens. This, of course, is part of the libertarian line of thought, which is compelling but again not wholly convincing since, [from what I can tell, there is as much incompetence and malfeasance in many corporations as there is in politics](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308).
+Is the difference between the execution of the Bay Bridge versus AWS (to simplify things dramatically) inherent in the institutions that built them?
+
+Both AWS and the Bay Bridge were built by hierarchical organizations. One is fueled by data, motivated by the prerogatives of the marketplaces; the other is organized by Caltrans, a state agency, but contracted out to construction firms. What is interesting about putting it in these terms is that it seems like Amazon has a clearer reason to deliver the best possible result. They have to, in order to keep existing. But Caltrans has its sanctioned responsibilities, and that bureaucracy will continue to exist no matter what happens. This, of course, is part of the libertarian line of thought, which is compelling but again not wholly convincing since, from what I can tell, [there is as much incompetence and malfeasance in the corporate world as there is in politics](https://en.wikipedia.org/wiki/Financial_crisis_of_2007%E2%80%9308).
 
 Can there be democratic organizations that are also resilient and resolute enough to bend, grow, and shed as unpredictable scenarios demand?
 
@@ -69,10 +71,10 @@ Will they be capable of making the technological leaps that may be required, say
 Uber is a really interesting example here, because it seems like their blue sky ambition for the long term is to build a network of autonomous bus-cars around the world. Basically physical infrastructure, more closely aligned to areas that the state already controls.
 
 But then, why can't there just be high speed trains that go from any part of a city to any other part?
-Were cities that depend on cars really a good idea in the first place?
-Who decided that so many American cities and suburbs should be organized around roads, and the ownership of cars?
 
-Uber raised venture capital; public services take taxes. That's definitely near the root of the aggression toward public services that appears among some American policymakers, entrepreneurs, and (especially) grassroots conservatives. Uber started from scratch a few years ago, while Caltrans is a legacy institution dealing with legacy infrastructure is not in the cloud but stamped across the landscape already. That's not really an accident, though, or an excuse. Why are there broken bolts on a brand new, $6.5 billion bridge?
+Who decided that so many American cities and suburbs should be organized around roads, and the ownership of cars? Was that a good idea in the first place?
+
+Uber raised venture capital; government agencies take taxes. That's definitely near the root of the aggression toward public services that appears among some American policymakers, entrepreneurs, and (especially) grassroots conservatives. Uber started from scratch a few years ago, while Caltrans is a legacy institution dealing with legacy infrastructure is not in the cloud but stamped across the landscape already. That's not really an accident, though, or an excuse. Why are there broken bolts on a brand new, $6.5 billion bridge?
 
 In Ursula Leguin's book *The Dispossessed*, a non-hierarchical anarchist society on a barren moon is run with the help of an AI that was originally developed on the Earth-like, state-dominated planet from whence the anarchists came. The computer organizes everything and assigns people work so they can collectively survive with little resources in a difficult natural environment. While anyone is free to ask for a different assignment or refuse to work outright, a culture in which individuals are shamed for endangering the group enforces conformity.
 I find this book really interesting because a) it shows how the utopian life I sometimes dream of might actually be miserable to live in and b) it predicates that society's development on the prior existence of a technologically advanced capitalist system, which ultimately made it possible for the moon colony to survive.
@@ -80,11 +82,16 @@ I find this book really interesting because a) it shows how the utopian life I s
 It seems like [artificial intelligence will be critical to the operation of successful cities](https://www.newscientist.com/article/mg22329764-000-the-ai-boss-that-deploys-hong-kongs-subway-engineers/) going forward.
 
 What will cities run by software be like?
-Will it be great, like the experience of using Amazon Web Services to do powerful computing in the cloud?
-Will there still be mistakes, like using bolts with the wrong threads on the Bay Bridge, or invading Iraq?
+
+Will they make life great, like the experience of using Amazon Web Services to do powerful computing in the cloud?
+
+Will there still be mistakes, like using bolts with the wrong threads to rebuild the collapsed Bay Bridge?
+
 Will there be more or less accountability than there is today?
 
 Who will live in the cloud city?
+
+<br />
 
 <figure>
   <img src="/assets/2015/10/aws-loft/cloud-kegerator.jpg" />
