@@ -6,7 +6,7 @@
 
 
 // Variables
-$base-font-family: "futura-pt", sans-serif; // "proxima-nova", sans-serif;
+$base-font-family: "proxima-nova", sans-serif; // "futura-pt", sans-serif; // "proxima-nova", sans-serif;
 $header-font-family: $base-font-family; // "futura-pt", sans-serif;
 $copy-font-family : "proxima-nova", sans-serif;
 
@@ -19,13 +19,13 @@ $base-line-height: 1.5;
 $spacing-unit:     25px;
 
 
-$grey-color:       #999;
+$grey-color:       #7a7a7a;
 $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 35%);
 
 $background-color: #fff;
-$brand-color:      #ff1a1a;
-$secondary-color:  #1A1AFF;
+$brand-color:      $grey-color; // #ff1a1a; // red
+$secondary-color:  $grey-color; // #0D0D7F; // blue
 $text-color:       $grey-color-dark;
 
 // Width of the content area
