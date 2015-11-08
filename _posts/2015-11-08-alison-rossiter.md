@@ -2,7 +2,7 @@
 title: "It's Time: Alison Rossiter"
 author: Jared Radin
 layout: post
-permalink: /2015/rossiter/
+permalink: /2015/alison-rossiter/
 
 categories:
 - photography
