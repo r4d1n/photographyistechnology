@@ -16,17 +16,17 @@ tags:
 <img src="/assets/2015/11/rossiter/large-alison_rossiter-nepera_chemical_company_carbon_velox-shipped_from_works_november_8-1897-processed_2014-1.jpg" alt="Alison Rossiter Nepera Chemical Company Carbon Velox Shipped November 8 1897 Processed 2014" />
 </figure>
 
-Last week I went to see Alison Rossiter speak at CCA.
+I recently went to see Alison Rossiter speak at CCA.
 I was not familiar with her work beforehand, but she ended up giving what turned out to be one of my favorite artist talks that I have been to in a while.
 
 She was very down to earth. She began with her own biography leading up to the work, from taking a photography class in Banff as a teenager (though she originally hails from Mississippi) through time spent studying photography at Rochester Institute of Technology and years as a young person in Montreal and New York, then on to New Jersey where, (I think) she still resides and works in a darkroom at home.
+
 She showed some color still lifes from her time in Montreal, saying she made portraits of everything in her apartment because her French was so bad that she was afraid to go out.
 Then later still lifes of feminine beauty tools, pictures of horses in the New Jersey countryside, and eventually a photogram of a bottle of Windex that set the stage for her current work, which is made without a camera.
 
 <figure>
 <img src="/assets/2015/11/rossiter/large-alison_rossiter-defender_argo-expired_september_1911-processed_2014-5.jpg" alt="Alison Rossiter Defender Argo, expired September 1911, processed 2014" />
 </figure>
-
 
 Rossiter gathers and develops expired photo paper. Sometimes she involves herself more in the result by exposing the paper, or by dipping and pouring chemicals so that some areas are developed fully before others, which allows for some fairly sophisticated tonal management in gemoetric forms. The resulting abstractions are beautiful, even eery in the way that Barnett Newman paintings can be. Oftentimes the degradation of the materials over time contributes as much to the final piece as the artist's own hand, so collecting the paper is as important to the process as actually developing it. "Mold is my friend," she said in reference to one heavily spotted piece.
 
@@ -43,7 +43,6 @@ That she regularly finds cut up test strips in the boxes (and sometimes uses the
 One interesting but less immediately apparent aspect of Rossiter's work, which is so focused on photographic antiques, is its dependence on digital technology.
 Because she finds a vast majority of her vintage paper stocks through eBay, it is unlikely that such a process would have been possible at all without widespread access to personal computers and the Internet. This is fascinating to think about, and suggests that we really are only just beginning to see the impact of computing on art.
 
-
 <figure>
 <img src="/assets/2015/11/rossiter/large-alison_rossiter-haloid_military-expired_october_1957-processed_2015-2.jpg" alt="Alison Rossiter Haloid Military, expired October 1957, processed 2015" />
 </figure>
@@ -53,8 +52,10 @@ Though the images are abstract and contingent on found physical objects, there i
 "It's time making those images", she said, which to me really highlights her sensitivity to the fact that through her handling artifacts of photographic history, she is engaging directly with the medium's past.
 Furthermore, the way that she "finds" images aligns, in a way, with a more traditional process in which the photographer seeks out encounters and objects in the world and thus depends on a random element to make pictures.
 
-A lot of photography, especially in personal and documentary contexts, is inherently concerned with preservation.
-This also entails a certain sensitivity to the past itself, and to the perpetual passage of time that carries us beyond every experience, so that it can only be experienced again as a memory. Even other people are washed away from us in the current and we can only interact with them again by imagining them as they were.
-Cameras can take images out of the present as it becomes the past and so let us supplement our *own* imagination with a mechanically rendered picture, a shallow substitute but somehow more fixed than our own fickle recollections. But pictures and the materials on which they are archived -- be they pieces of paper or electronic drives -- are also fragile and susceptible to degradation over time.
+A lot of photography, especially in personal and documentary contexts, is concerned with preservation.
+This often entails a certain sensitivity to the past itself, and to the perpetual passage of time that carries us beyond every experience, so that it can only be experienced again as a memory. Even other people are washed away from us in the current and we can only interact with them again by imagining them as they were.
+Cameras can take images out of the present as it becomes the past and so let us supplement our *own* imagination with a mechanically rendered picture, a shallow substitute but somehow more fixed than our fickle recollections. But pictures and the materials on which they are archived -- be they pieces of paper or electronic drives -- are also fragile and susceptible to degradation over time.
+
+<br />
 
 Images via the website of [Yossi Milo Gallery](http://www.yossimilo.com/artists/alison-rossiter/)
