@@ -26,7 +26,6 @@
   @include media-query($on-phone) {
     font-size: $small-font-size;
     line-height: 40px;
-    padding-right: $spacing-unit;
   }
 }
 
