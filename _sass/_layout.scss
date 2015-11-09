@@ -134,12 +134,15 @@
 }
 
 .post-meta {
-  font-size: $base-font-size;
+  font-size: $small-font-size;
   color: $brand-color;
-
+  font-style: italic;
   // @include media-query($on-phone) {
   //   font-size: $base-font-size;
   // }
+  .right {
+    float: right;
+  }
 }
 
 .pagination {
@@ -179,26 +182,17 @@
 .post-link, .post-title {
   text-align: left;
   display: block;
-  font-size: $med-font-size;
-  color: $secondary-color;
+  font-size: $base-font-size;
+  color: $accent-color;
   margin: $spacing-unit / 2 0;
   letter-spacing: -1px;
   line-height: 1.5;
-}
 
-.post-link, .post-title {
   @include media-query($on-phone) {
     font-size: $base-font-size;
     margin-bottom: $spacing-unit / 4;
   }
 }
-
-// .post-title {
-//   @include media-query($on-phone) {
-//     font-size: $base-font-size;
-//     margin-bottom: $spacing-unit / 4;
-//   }
-// }
 
 .post-content {
   position: relative;

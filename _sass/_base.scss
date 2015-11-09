@@ -109,10 +109,10 @@ a {
   font-family: inherit;
   &,
   &:visited {
-    color: darken($secondary-color, 15%);
+    // color: darken($accent-color, 15%);
   }
   &:hover {
-    color: lighten($secondary-color, 5%);
+    color: lighten($accent-color, 5%);
   }
   &:active:not(.site-title) {
     text-decoration: underline;
