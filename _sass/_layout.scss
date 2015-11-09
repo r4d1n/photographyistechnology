@@ -22,7 +22,6 @@
   text-align: left;
   display: inline;
   text-transform: uppercase;
-  padding-right: $spacing-unit * 2;
 
   @include media-query($on-phone) {
     font-size: $small-font-size;
@@ -35,6 +34,7 @@
   font-size: $small-font-size;
   font-style: italic;
   display: inline;
+  color: $accent-color;
 }
 
 /**
