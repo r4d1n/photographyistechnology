@@ -54,7 +54,7 @@ Furthermore, the way that she "finds" images aligns, in a way, with a more tradi
 
 A lot of photography, especially in personal and documentary contexts, is concerned with preservation.
 This often entails a certain sensitivity to the past itself, and to the perpetual passage of time that carries us beyond every experience, so that it can only be experienced again as a memory. Even other people are washed away from us in the current and we can only interact with them again by imagining them as they were.
-Cameras can take images out of the present as it becomes the past and so let us supplement our *own* imagination with a mechanically rendered picture, a shallow substitute but somehow more fixed than our fickle recollections. But pictures and the materials on which they are archived -- be they pieces of paper or electronic drives -- are also fragile and susceptible to degradation over time.
+Cameras can take images out of the present as it becomes the past and so let us supplement our *own* imagination with a mechanically rendered picture, a shallow substitute but somehow more fixed than our fickle recollections. But pictures and the materials on which they are archived -- be they pieces of paper or electronic drives -- are also fragile, and perhaps less permanent than they seem.
 
 <br />
 
