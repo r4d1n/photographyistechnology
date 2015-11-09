@@ -109,7 +109,7 @@ a {
   font-family: inherit;
   &,
   &:visited {
-    // color: darken($accent-color, 15%);
+    color: darken($accent-color, 15%);
   }
   &:hover {
     color: lighten($accent-color, 5%);
