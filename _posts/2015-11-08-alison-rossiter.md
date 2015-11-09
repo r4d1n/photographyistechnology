@@ -1,5 +1,5 @@
 ---
-title: "It's Time: Alison Rossiter"
+title: "Alison Rossiter"
 author: Jared Radin
 layout: post
 permalink: /2015/alison-rossiter/
@@ -52,6 +52,7 @@ Though the images are abstract and contingent on found physical objects, this wo
 A lot of photography, especially in personal and documentary contexts, is concerned with preservation.
 This often entails a certain sensitivity to the past itself, and to the perpetual passage of time that carries us beyond every experience.
 Cameras promise to take images out of the present as it becomes the past and so let us supplement our *own* imagination with a mechanically rendered picture, a shallow substitute but somehow more sturdy than our fickle recollections. But pictures and the materials on which they are archived -- be they pieces of paper or electronic drives -- are also fragile, and perhaps less permanent than they seem.
+
 
 <br />
 
