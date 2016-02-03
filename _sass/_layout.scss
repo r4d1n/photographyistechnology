@@ -220,9 +220,13 @@
   }
 }
 
-.post-list li:not(:first-child){
-  border-top: 1px solid $grey-color;
+.post-list {
+  list-style-type: disc;
 }
+
+// .post-list li:not(:first-child){
+  // border-top: 1px solid $grey-color;
+// }
 
 .page-link {
   display: block;
