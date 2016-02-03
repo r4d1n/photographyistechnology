@@ -8,10 +8,6 @@
   vertical-align: baseline;
   // Positioning context for the mobile navigation icon
   position: relative;
-  a, a:hover,
-  a:visited {
-    color: $brand-color;
-  }
 }
 
 .site-title {
@@ -184,7 +180,7 @@
   text-align: left;
   display: block;
   font-size: $base-font-size;
-  color: $accent-color;
+  color: $brand-color;
   margin: $spacing-unit / 2 0;
   letter-spacing: -1px;
   line-height: 1.5;
