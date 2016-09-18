@@ -105,26 +105,27 @@ h1, h2, h3, h4, h5, h6 {
 * Links
 */
 a {
-  text-decoration: none;
+  text-decoration: underline;
   font-family: inherit;
   &,
   &:visited {
-    color: darken($accent-color, 15%);
+    color: $brand-color;
   }
   &:hover {
-    color: lighten($accent-color, 5%);
+      color: lighten($brand-color, 25%);
   }
-  &:active:not(.site-title) {
-    text-decoration: underline;
+  &.post-link,
+  h1.site-title & {
+  text-decoration: none;
   }
 }
 
 .accent-link {
   a, a:visited {
-    color: $brand-color;
-
+color: darken($accent-color, 15%);
     &:hover {
-      color: darken($brand-color, 10%);
+      color: lighten($accent-color, 15%);
+
     }
   }
   ul {
@@ -261,31 +262,29 @@ pre {
       // font-size: $small-font-size;
     }
   }
-  a {
-    color: #fdfdfd;
-  }
-  .mail-share {
-    background-color: $grey-color-dark;
-    &:hover {
-      background-color: darken($grey-color-dark, 5%)
-    }
-  }
-  .fb-like {
-    background-color: #3b5999;
-    &:hover {
-      background-color: darken(#3b5999, 5%)
-    }
-  }
-  .twitter-share {
-    background-color: #55ACEE;
-    &:hover {
-      background-color: darken(#55acee, 5%)
-    }
-  }
-  .tumblr-share {
-    background-color: #35465c;
-    &:hover {
-      background-color: darken(#35465c, 5%)
-    }
-  }
+
+  // .mail-share {
+  //   background-color: $grey-color-dark;
+  //   &:hover {
+  //     background-color: darken($grey-color-dark, 5%)
+  //   }
+  // }
+  // .fb-like {
+  //   background-color: #3b5999;
+  //   &:hover {
+  //     background-color: darken(#3b5999, 5%)
+  //   }
+  // }
+  // .twitter-share {
+  //   background-color: #55ACEE;
+  //   &:hover {
+  //     background-color: darken(#55acee, 5%)
+  //   }
+  // }
+  // .tumblr-share {
+  //   background-color: #35465c;
+  //   &:hover {
+  //     background-color: darken(#35465c, 5%)
+  //   }
+  // }
 }
