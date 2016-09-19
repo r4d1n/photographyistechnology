@@ -1,5 +1,5 @@
 ---
-title: 'Trevor Paglen: Research and Development/Art and Politics'
+title: 'Research and Development: Trevor Paglen'
 author: Jared Radin
 layout: post
 permalink: /2014/trevor-paglen/

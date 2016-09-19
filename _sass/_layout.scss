@@ -17,7 +17,6 @@
   margin-bottom: 0;
   text-align: left;
   display: inline;
-  text-transform: uppercase;
 
   @include media-query($on-phone) {
     font-size: $small-font-size;

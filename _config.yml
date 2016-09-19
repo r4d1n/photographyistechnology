@@ -1,5 +1,5 @@
 # Site settings
-title: Photography Is Technology
+title: blog.r4d1n
 email: photographyistechnology@gmail.com
 description: "A blog about photography and technology.
 Exploring the nature and implications of technologically enabled art in
@@ -9,7 +9,6 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://blog.r4d1n.net" # the base hostname & protocol for your site
 twitter_username: r4d1n
 github_username:  r4d1n
-instagram_username: r4d1n
 
 # Build settings
 markdown: kramdown

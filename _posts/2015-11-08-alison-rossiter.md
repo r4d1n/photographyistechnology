@@ -1,5 +1,5 @@
 ---
-title: "Alison Rossiter"
+title: "The Archaeologist: Alison Rossiter"
 author: Jared Radin
 layout: post
 permalink: /2015/alison-rossiter/
