@@ -39,11 +39,6 @@
   padding-top: $spacing-unit + 5;
   padding-bottom: $spacing-unit;
   font-family: $header-font-family;
-  // ul {
-  //   @include media-query($on-tablet) {
-  //     margin-bottom: $spacing-unit / 4;
-  //   }
-  // }
 }
 
 .contact-list {
@@ -194,6 +189,12 @@
   position: relative;
   margin-bottom: $spacing-unit;
 
+  ol {
+    list-style-type: decimal;
+    list-style-position: outside;
+    list-style-image: none;
+  }
+
   h2 {
     font-size: 32px;
 
@@ -218,14 +219,6 @@
     }
   }
 }
-
-.post-list {
-  // list-style-type: disc;
-}
-
-// .post-list li:not(:first-child){
-  // border-top: 1px solid $grey-color;
-// }
 
 .page-link {
   display: block;
