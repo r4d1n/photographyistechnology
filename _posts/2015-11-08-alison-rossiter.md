@@ -4,13 +4,14 @@ author: Jared Radin
 layout: post
 permalink: /2015/alison-rossiter/
 
-categories:
-- photography
 tags:
+- photography
 - history of photography
 - art and technology
 - collecting
 - archives
+- fine art
+- artifacts
 ---
 <figure>
 <img src="/assets/2015/11/rossiter/large-alison_rossiter-nepera_chemical_company_carbon_velox-shipped_from_works_november_8-1897-processed_2014-1.jpg" alt="Alison Rossiter Nepera Chemical Company Carbon Velox Shipped November 8 1897 Processed 2014" />

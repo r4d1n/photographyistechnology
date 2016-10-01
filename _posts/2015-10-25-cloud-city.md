@@ -4,9 +4,8 @@ author: Jared Radin
 layout: post
 permalink: /2015/cloud-city/
 
-categories:
-- technology
 tags:
+- technology
 - paradigm shift
 - industry
 - silicon valley
@@ -18,6 +17,7 @@ tags:
 - web
 - economy
 - the cloud
+- infrastructure
 ---
 <figure>
 <img src="/assets/2015/10/aws-loft/pop-up-loft-sign.jpeg" alt="outside the amazon web services pop-up loft on Market Street in San Francisco" />

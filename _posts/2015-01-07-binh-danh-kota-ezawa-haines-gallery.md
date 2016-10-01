@@ -3,9 +3,9 @@ title: 'Binh Danh &#038; Kota Ezawa &#64; Haines Gallery'
 author: Jared Radin
 layout: post
 permalink: /2015/binh-danh-kota-ezawa/
-categories:
-  - fine art
+
 tags:
+  - fine art
   - 49 geary
   - adobe
   - appropriation

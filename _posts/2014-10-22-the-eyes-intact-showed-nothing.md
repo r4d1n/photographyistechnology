@@ -3,10 +3,10 @@ title: 'The Eyes, Intact'
 author: Jared Radin
 layout: post
 permalink: /2014/the-eyes-intact/
-categories:
+
+tags:
   - literature
   - books
-tags:
   - cyborgs
   - fiction
   - posthumanism

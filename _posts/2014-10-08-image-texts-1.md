@@ -3,16 +3,16 @@ title: 'Image-Texts: Sternfeld & Goldberg'
 author: Jared Radin
 layout: post
 permalink: /2014/image-texts-1/
-categories:
+
+tags:
   - fine art
   - photography
   - books
-tags:
   - documentary
   - Jim Goldberg
   - Joel Sternfeld
   - lectures
-  - photobook
+  - photobooks
   - writing by photographers
 ---
 <figure>

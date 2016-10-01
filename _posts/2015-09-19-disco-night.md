@@ -4,10 +4,9 @@ author: Jared Radin
 layout: post
 permalink: /2015/disco-night/
 
-categories:
+tags:
 - photography
 - books
-tags:
 - reportage
 - photojournalism
 - middle east

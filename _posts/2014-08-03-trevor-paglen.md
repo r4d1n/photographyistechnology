@@ -4,10 +4,9 @@ author: Jared Radin
 layout: post
 permalink: /2014/trevor-paglen/
 
-categories:
+tags:
 - photography
 - fine art
-tags:
 - government
 - security
 - politics

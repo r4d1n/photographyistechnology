@@ -4,14 +4,14 @@ author: Jared Radin
 layout: post
 permalink: /2014/photography-is-technology/
 
-categories:
-- photography
 tags:
+- photography
 - theory
 - abstract
 - posthumanism
 - cyborgs
 - science
+
 ---
 Photography is technology. Photographers were scientists before they were artists.  
 Photographic technology represents a physiological change in the way that humans in photographic societies see. It is altering one of our primary perceptive organs, our eyes, as well as our brains.

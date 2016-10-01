@@ -3,11 +3,11 @@ title: 'Reading Paul Strand&#8217;s New God'
 author: Jared Radin
 layout: post
 permalink: /2014/reading-paul-strands-new-god/
-categories:
+
+tags:
   - theory
   - photography
   - fine art
-tags:
   - capitalism
   - commerce
   - industry

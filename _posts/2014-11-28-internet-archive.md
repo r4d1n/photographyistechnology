@@ -3,9 +3,9 @@ title: A Visit To The Internet Archive
 author: Jared Radin
 layout: post
 permalink: /2014/internet-archive/
-categories:
-  - news
+
 tags:
+  - news
   - archives
   - big data
   - current events

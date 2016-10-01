@@ -3,10 +3,10 @@ title: 'At the Pier: Erik Kessels'
 author: Jared Radin
 layout: post
 permalink: /2014/at-the-pier-erik-kessels/
-categories:
+
+tags:
   - photography
   - fine art
-tags:
   - appropriation
   - archives
   - curation

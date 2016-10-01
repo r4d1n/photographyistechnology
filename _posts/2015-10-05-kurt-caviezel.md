@@ -4,11 +4,10 @@ author: Jared Radin
 layout: post
 permalink: /2015/kurt-caviezel/
 
-categories:
+tags:
 - photography
 - fine art
 - books
-tags:
 - the web
 - internet
 - data
