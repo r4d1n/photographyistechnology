@@ -63,11 +63,11 @@ I sometimes wish that I had explored a broader range of possible careers earlier
 There are classes that I took that I think were not worthwhile, and others that I wish I had taken instead. I have a lot to learn on my own now.
 This is not easy, but it is a challenge that my undergraduate work equipped me to take on.
 It will only be a few very specialized individuals who work for the next fifty years in a single field.
-I empathize with parents who want to see a straightforward path for their offspring to prosper, even though I think they are deluding themselves if they think any major will certify their child’s happy future.
+
 But college costs a lot of money. An unreasonable amount.
 
 Aside from my coursework, I devoted the bulk of my time and energy as a student to photography and filmmaking.
-Arts education also gets a lot of flack for how pointless it is, so I want to briefly mention the very practical things I have learned from cultivating an art practice and working on film sets.
+Arts education also gets a lot of flack for how pointless it is, so I want to mention the very practical things I have learned from cultivating an art practice and working on film sets.
 Liberal arts is not art school, so my university did not offer many technically oriented art or film classes. There was a lot of learning as we went along.
 The hands on experiences I had of making art, both on my own and in teams with other people, were an invaluable part of my education. I learned:
 
@@ -77,11 +77,14 @@ The hands on experiences I had of making art, both on my own and in teams with o
 4. How to iterate and learn from my mistakes.
 5. How to work with mentors.
 
-Again, these skills are not the exclusive domain of school and they do not fit on a resume, but I think it takes a failure of imagination to disregard them.
+Again, these skills are not the exclusive domain of school and they do not fit cleanly on a typical resume, but I think it takes a failure of imagination to disregard them.
+Indeed, it may be that the most important aspect of a student's mind that can be bolstered by studying the humanities is their imagination, their sense of what may be possible and what part they want to play in the world.
 
 There is a utopian quality to small campuses and to the whole concept of a secluded environment for enlightened learning and creative exploration. Like I said, I'm blessed.
 But I am starting to realize that maybe utopia doesn't scale.
 Studying literature in depth was once an elite pursuit and perhaps the postwar spread of humanities degrees as a part of upward mobility was part of an exceptional period and not a new norm. Maybe this kind of education isn't for everyone.
-Students have to be driven, imaginative, and entrepreneurial if they are to effectively translate the raw intellectual workout of liberal arts school into applied success in their real lives. And it still costs too damn much.
+
+And it still costs too damn much.
+
 This saddens me, because I believe that the full value of the humanities is rendered upon society as a whole, through the introduction of thoughtful, articulate citizens into our complex and violent world.
 But maybe that is as utopian a notion as thinking that if more people read *Beloved* that world would be less fucked up.
