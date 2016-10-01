@@ -2,7 +2,7 @@
 title: 'Image-Texts 2: Taryn Simon'
 author: Jared Radin
 layout: post
-permalink: /2014/image-texts-2-taryn-simon/
+permalink: /posts/2014/image-texts-2-taryn-simon/
 
 tags:
   - fine art

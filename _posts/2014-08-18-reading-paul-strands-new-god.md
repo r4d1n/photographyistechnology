@@ -2,7 +2,7 @@
 title: 'Reading Paul Strand&#8217;s New God'
 author: Jared Radin
 layout: post
-permalink: /2014/reading-paul-strands-new-god/
+permalink: /posts/2014/reading-paul-strands-new-god/
 
 tags:
   - theory
@@ -16,7 +16,7 @@ tags:
   - "what's the point?"
   - writing by photographers
 ---
-In <a href="/2014/industrial-picture-making/">an earlier post</a> I wondered about the relationship between art and the tech industry, and I am continuing to think about photography as a medium at the intersection of art, science, and economics.
+In <a href="/posts/2014/industrial-picture-making/">an earlier post</a> I wondered about the relationship between art and the tech industry, and I am continuing to think about photography as a medium at the intersection of art, science, and economics.
 
 Paul Strand, in an essay entitled “Photography and the New God,” draws a parallel between the historical roles of artists and scientists in Western civilization. He sees them as similar, as they are each involved in the pursuit of different kinds of knowledge: empirical or intellectual knowledge on the part of the scientist, and intuitive knowledge on the part of the artist.  
 

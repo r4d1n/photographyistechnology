@@ -2,7 +2,7 @@
 title: 'Research and Development: Trevor Paglen'
 author: Jared Radin
 layout: post
-permalink: /2014/trevor-paglen/
+permalink: /posts/2014/trevor-paglen/
 
 tags:
 - photography

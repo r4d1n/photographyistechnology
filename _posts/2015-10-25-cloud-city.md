@@ -2,7 +2,7 @@
 title: "Cloud City"
 author: Jared Radin
 layout: post
-permalink: /2015/cloud-city/
+permalink: /posts/2015/cloud-city/
 
 tags:
 - technology

@@ -2,7 +2,7 @@
 title: "Disco Night Sept 11"
 author: Jared Radin
 layout: post
-permalink: /2015/disco-night/
+permalink: /posts/2015/disco-night/
 
 tags:
 - photography

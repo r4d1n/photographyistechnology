@@ -2,7 +2,7 @@
 title: 'Binh Danh &#038; Kota Ezawa &#64; Haines Gallery'
 author: Jared Radin
 layout: post
-permalink: /2015/binh-danh-kota-ezawa/
+permalink: /posts/2015/binh-danh-kota-ezawa/
 
 tags:
   - fine art

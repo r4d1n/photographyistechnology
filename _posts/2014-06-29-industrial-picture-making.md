@@ -2,7 +2,7 @@
 title: Industrial Picture Making
 author: Jared Radin
 layout: post
-permalink: /2014/industrial-picture-making/
+permalink: /posts/2014/industrial-picture-making/
 
 tags:
   - theory

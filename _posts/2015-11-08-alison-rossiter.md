@@ -2,7 +2,7 @@
 title: "The Archaeologist: Alison Rossiter"
 author: Jared Radin
 layout: post
-permalink: /2015/alison-rossiter/
+permalink: /posts/2015/alison-rossiter/
 
 tags:
 - photography

@@ -2,7 +2,7 @@
 title: A Photo From Iraq
 author: Jared Radin
 layout: post
-permalink: /2014/a-photo-from-iraq/
+permalink: /posts/2014/a-photo-from-iraq/
 
 tags:
   - news

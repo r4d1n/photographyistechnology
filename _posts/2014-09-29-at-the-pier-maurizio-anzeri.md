@@ -2,7 +2,7 @@
 title: 'At the Pier: Maurizio Anzeri'
 author: Jared Radin
 layout: post
-permalink: /2014/at-the-pier-maurizio-anzeri/
+permalink: /posts/2014/at-the-pier-maurizio-anzeri/
 
 tags:
   - fine art
