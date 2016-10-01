@@ -2,7 +2,7 @@
 title: "Worthless Degree"
 author: Jared Radin
 layout: post
-permalink: /2016/worthless-degree/
+permalink: /posts/2016/worthless-degree/
 
 tags:
 - school
