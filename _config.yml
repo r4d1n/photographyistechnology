@@ -10,3 +10,4 @@ github_username:  r4d1n
 
 # Build settings
 markdown: kramdown
+exclude: [LICENSE.md, .gitignore]
