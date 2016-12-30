@@ -3,6 +3,7 @@ title: A Photo From Iraq
 author: Jared Radin
 layout: post
 permalink: /posts/2014/a-photo-from-iraq/
+description: Terrorism, as its name suggests, is about instilling fear.
 
 tags:
   - news

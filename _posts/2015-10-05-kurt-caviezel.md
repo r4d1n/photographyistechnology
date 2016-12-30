@@ -3,6 +3,7 @@ title: 'Watching the Web: Kurt Caviezel'
 author: Jared Radin
 layout: post
 permalink: /posts/2015/kurt-caviezel/
+description: The Encyclopedia of Kurt Caviezel is comprised of screenshots selected out of an archive that Kurt Caviezel collected from around 15000 webcams over the course of 15 years.
 
 tags:
 - photography

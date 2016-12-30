@@ -3,6 +3,7 @@ title: A Visit To The Internet Archive
 author: Jared Radin
 layout: post
 permalink: /posts/2014/internet-archive/
+description: Earlier this month (on November 8th) I went to Aaron Swartz Day at the Internet Archive, a San Francisco-based library-like institution dedicated to preserving and enabling access to cultural artifacts in the digital era, with particular focus paid to online and other “born digital” material that may not have ever existed in true physical form.
 
 tags:
   - news

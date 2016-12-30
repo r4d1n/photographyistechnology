@@ -3,6 +3,7 @@ title: 'Research and Development: Trevor Paglen'
 author: Jared Radin
 layout: post
 permalink: /posts/2014/trevor-paglen/
+description: One artist who makes for a fantastic example of the application of a keen technological understanding to photographic practice is Trevor Paglen, who received his MFA from the School of the Art Institute of Chicago and also holds a PhD in Geography from UC Berkeley.
 
 tags:
 - photography
@@ -25,13 +26,9 @@ STSS-1 and Two Unidentified Spacecraft over Carson City (Space Tracking and Surv
 </figcaption>
 </figure>
 
-One artist who makes for a fantastic example of the application of a keen technological understanding to photographic practice is Trevor Paglen, who received his MFA from the School of the Art Institute of Chicago and also holds a PhD in Geography from UC Berkeley. In addition to making photographs he publishes books and scholarly articles, and his visual and verbal endeavors together form a remarkable body of intellectual output that puts conceptual and applied engagements with technology toward radical investigations of politics and society.
-
+One artist who makes for a fantastic example of the application of a keen technological understanding to photographic practice is Trevor Paglen, who received his MFA from the School of the Art Institute of Chicago and also holds a PhD in Geography from UC Berkeley. Paglen often utilizes custom equipment that involves a deep scientific understanding, as well as collaborations with engineers and scientists, and thus necessitates a substantial amount of research and experimentation merely to hone the tools which he then goes on to use to make pictures. For example, the images in the series <i>The Other Night Sky</i> were taken with a specially designed camera platform that makes use of gears controlled by custom computer software that accommodates for the Earth&#8217;s rotation in order to depict geosynchronous satellites as sharp pinpoints, rather than trails, as might occur without these minute adjustments being made over the course of an exposure. In order to locate the secret government satellites that were the subject of the project, he made use of other custom software to plan his photographs based on data collected by amateur satellite tracking hobbyists.
 
 <!--more-->
-
-Paglen often utilizes custom equipment that involves a deep scientific understanding, as well as collaborations with engineers and scientists, and thus necessitates a substantial amount of research and experimentation merely to hone the tools which he then goes on to use to make pictures. For example, the images in the series <i>The Other Night Sky</i> were taken with a specially designed camera platform that makes use of gears controlled by custom computer software that accommodates for the Earth&#8217;s rotation in order to depict geosynchronous satellites as sharp pinpoints, rather than trails, as might occur without these minute adjustments being made over the course of an exposure. In order to locate the secret government satellites that were the subject of the project, he made use of other custom software to plan his photographs based on data collected by amateur satellite tracking hobbyists.
-
 
 <figure>
 <img src="http://paglen.com/img/43web.jpg" alt="Image by Trevor Paglen from Limit Telephotography" />

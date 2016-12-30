@@ -3,6 +3,7 @@ title: 'Image-Texts: Sternfeld & Goldberg'
 author: Jared Radin
 layout: post
 permalink: /posts/2014/image-texts-1/
+description: I recently went to see Joel Sternfeld speak at California College of the Arts as part of the regular lecture series on photography that is put on there in memory of Larry Sultan.
 
 tags:
   - fine art

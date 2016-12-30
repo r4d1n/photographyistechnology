@@ -3,6 +3,7 @@ title: "256 Colors: Gerhard Richter"
 author: Jared Radin
 layout: post
 permalink: /posts/2016/256-colors/
+description: I have re-visited this painting by Gerhard Richter at the San Francisco Museum of Modern Art several times since I first saw it on display there a couple of months ago.
 
 tags:
 - fine art

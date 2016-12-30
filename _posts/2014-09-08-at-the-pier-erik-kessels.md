@@ -3,6 +3,7 @@ title: 'At the Pier: Erik Kessels'
 author: Jared Radin
 layout: post
 permalink: /posts/2014/at-the-pier-erik-kessels/
+description: For the last year or so I have had the opportunity to spend one day each week as a docent at Pier 24, a beautiful exhibition space in San Francisco dedicated to photography. There is about one thoughtfully curated exhibition a year, and since a new show just opened I thought I would take some time over the next few weeks or months to write down my thoughts on the pictures that are now on display.
 
 tags:
   - photography

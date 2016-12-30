@@ -3,6 +3,7 @@ title: Industrial Picture Making
 author: Jared Radin
 layout: post
 permalink: /posts/2014/industrial-picture-making/
+description: Photography is an industrial art. The tools to make photographs are produced and improved according to market demands.
 
 tags:
   - theory

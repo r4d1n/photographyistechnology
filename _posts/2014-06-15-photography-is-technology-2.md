@@ -3,6 +3,7 @@ title: Photography Is Technology
 author: Jared Radin
 layout: post
 permalink: /posts/2014/photography-is-technology/
+description: Photography is technology. Photographers were scientists before they were artists.  
 
 tags:
 - photography

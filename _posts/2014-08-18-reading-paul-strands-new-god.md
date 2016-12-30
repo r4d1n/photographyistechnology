@@ -3,6 +3,7 @@ title: 'Reading Paul Strand&#8217;s New God'
 author: Jared Radin
 layout: post
 permalink: /posts/2014/reading-paul-strands-new-god/
+description: Paul Strand, in an essay entitled “Photography and the New God,” draws a parallel between the historical roles of artists and scientists in Western civilization.
 
 tags:
   - theory

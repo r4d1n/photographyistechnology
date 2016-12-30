@@ -3,6 +3,7 @@ title: "Disco Night Sept 11"
 author: Jared Radin
 layout: post
 permalink: /posts/2015/disco-night/
+description: Disco Night Sept 11, a book of photographs and writing by Peter Van Agtmael, offers a vivid perspective of the American invasion of Afghanistan.
 
 tags:
 - photography
@@ -45,4 +46,4 @@ The pictures in this book are difficult to look away from or forget, and the wri
 <img src="/assets/2015/09/cafe-text.jpg" alt="Disco Night Sept 11 by Peter Van Agtmael" />
 </figure>
 
-Van Agtmael seems to seek, if not good a reason for this suffering, then a keen record of it that implores us to ask: Why? What was this all for?
+Van Agtmael has created a keen record of the American response to 9/11 that implores us to ask: Why? What was this all for?

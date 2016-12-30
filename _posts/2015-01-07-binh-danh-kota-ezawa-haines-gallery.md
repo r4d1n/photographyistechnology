@@ -3,6 +3,7 @@ title: 'Binh Danh &#038; Kota Ezawa &#64; Haines Gallery'
 author: Jared Radin
 layout: post
 permalink: /posts/2015/binh-danh-kota-ezawa/
+description: I saw a very cool gallery show last month in San Francisco that, though it has since closed, I still feel is worth briefly writing about. The paired hanging at Haines Gallery of work by Binh Danh and Kota Ezawa presented viewers with two different but equally cutting edge photographic practices. I really enjoyed looking at these pictures and seeing them in the gallery together left me inspired, thinking about what fertile soil the history of photography has made for artists today to take root in.
 
 tags:
   - fine art

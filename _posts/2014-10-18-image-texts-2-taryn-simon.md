@@ -3,6 +3,7 @@ title: 'Image-Texts 2: Taryn Simon'
 author: Jared Radin
 layout: post
 permalink: /posts/2014/image-texts-2-taryn-simon/
+description: Taryn Simon was another artist that Sternfeld mentioned as an example of someone who makes innovative work that incorporates text with photographs. Her output can also be considered a kind of “documentary” along with the previously discussed projects by Sternfeld and Jim Goldberg. All three artists do research and then go out into the world to gather material in the form of images and whatever information is required to produce their accompanying texts.  
 
 tags:
   - fine art

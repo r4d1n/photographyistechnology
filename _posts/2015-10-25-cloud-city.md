@@ -3,6 +3,7 @@ title: "Cloud City"
 author: Jared Radin
 layout: post
 permalink: /posts/2015/cloud-city/
+description: who will live in the cloud city?
 
 tags:
 - technology
