@@ -17,11 +17,6 @@
   margin-bottom: 0;
   text-align: left;
   display: inline;
-
-  @include media-query($on-phone) {
-    font-size: $small-font-size;
-    line-height: 40px;
-  }
 }
 
 .about {

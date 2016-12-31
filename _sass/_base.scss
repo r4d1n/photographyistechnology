@@ -112,17 +112,17 @@ a {
     color: $brand-color;
   }
   &:hover {
-      color: lighten($brand-color, 25%);
+    color: lighten($brand-color, 25%);
   }
   &.post-link,
   h1.site-title & {
-  text-decoration: none;
+    text-decoration: none;
   }
 }
 
 .accent-link {
   a, a:visited {
-color: darken($accent-color, 15%);
+    color: darken($accent-color, 15%);
     &:hover {
       color: lighten($accent-color, 15%);
 
