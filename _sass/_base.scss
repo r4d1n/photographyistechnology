@@ -109,23 +109,26 @@ a {
   font-family: inherit;
   &,
   &:visited {
-    color: $brand-color;
+    color: $main-color;
   }
   &:hover {
-    color: lighten($brand-color, 25%);
+    color: $accent-color;
   }
   &.post-link,
   h1.site-title & {
     text-decoration: none;
   }
+  &.post-link:hover,
+  h1.site-title:hover {
+      color: $accent-color;
+    }
 }
 
 .accent-link {
   a, a:visited {
     color: darken($accent-color, 15%);
     &:hover {
-      color: lighten($accent-color, 15%);
-
+      color: $accent-color;
     }
   }
   ul {
@@ -240,7 +243,7 @@ pre {
 }
 
 .social-sharing {
-  color: $brand-color;
+  color: $main-color;
   li {
     margin: 5px;
     padding: 5px;

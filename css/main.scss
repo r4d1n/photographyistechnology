@@ -25,9 +25,8 @@ $grey-color-light: lighten($grey-color, 25%);
 $grey-color-dark:  darken($grey-color, 35%);
 
 $background-color: #fff;
-$brand-color:      $grey-color-dark; // #ff1a1a; // red
-$secondary-color: $brand-color; // $grey-color; // #0D0D7F; // blue
-$accent-color: $grey-color; // #7CCD7C;
+$main-color:      $grey-color-dark;
+$accent-color: #e589bc;
 $text-color:       $grey-color-dark;
 
 // Width of the content area
