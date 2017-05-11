@@ -14,7 +14,7 @@ tags:
 ---
 
 <figure>
-<img src="/assets/2016/12/battery.png" alt="Gerhard Richter's 256 Farben (256 Colors) on display at SF Moma" />
+<img src="/assets/2016/12/twitter-battery-week.png" alt="My phone says I spent 15 hours using Twitter this past week" />
 </figure>
 
 Twitter is the only social media platform that has held my attention since the days when I frequented topical message boards. Most of my friends in real life don’t get the appeal. But I love Twitter.

@@ -72,7 +72,7 @@ Liberal arts is not art school, so my university did not offer many technically 
 The hands on experiences I had of making art, both on my own and in teams with other people, were an invaluable part of my education. I learned:
 
 1. How to give and receive critical feedback.
-2. How to execute it a vision and adapt when unforeseen complications arise while carrying out a plan (alone and in collaboration with others).
+2. How to execute a vision and adapt when complications arise.
 3. How to do things I am not innately good at.
 4. How to iterate and learn from my mistakes.
 5. How to work with mentors.
